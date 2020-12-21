@@ -8,7 +8,7 @@ from pprint import pprint
 
 #assumes high tide is at the 12 o'clock position, and low tide is at the 6 o'clock position.
 
-default_tide_height = 3
+default_tide_height = 2
 default_station = '9414290'
 default_days_between_NOAA_updates = 7
 
@@ -109,8 +109,8 @@ def check_defaults_get_stored_tides(tides_filename = "NOAA_tides.json"):
 def get_tide_degrees():
 	return tide_to_degrees(minutes_left_high_tide())
 
-pprint(minutes_left_high_tide())
-#pprint(get_tide_degrees())
+#pprint(minutes_left_high_tide())
+pprint(get_tide_degrees())
 
 
 #pprint(NOAA_tides)
