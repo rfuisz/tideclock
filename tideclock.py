@@ -109,8 +109,8 @@ def check_defaults_get_stored_tides(tides_filename = "NOAA_tides.json"):
 def get_tide_degrees():
 	return tide_to_degrees(minutes_left_high_tide())
 
-#pprint(minutes_left_high_tide())
-pprint(get_tide_degrees())
+pprint(minutes_left_high_tide())
+#pprint(get_tide_degrees())
 
 
 #pprint(NOAA_tides)
