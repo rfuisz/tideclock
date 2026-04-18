@@ -1,0 +1,256 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 1.23,
+      "phase_GMT": 35.9,
+      "phase_local": 251.0,
+      "speed": 28.984104,
+      "comments": "Average of 2 LSQHA analysis; 5/2008 thru 11/2008 and 2/2010 thru 9/2010: deleted unstable constituents: added Ssa and Sa using nearby NWLON at Lakeworth Pier"
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.2,
+      "phase_GMT": 67.3,
+      "phase_local": 277.3,
+      "speed": 30.0,
+      "comments": "Average of 2 LSQHA analysis; 5/2008 thru 11/2008 and 2/2010 thru 9/2010: deleted unstable constituents: added Ssa and Sa using nearby NWLON at Lakeworth Pier"
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.28,
+      "phase_GMT": 18.1,
+      "phase_local": 235.9,
+      "speed": 28.43973,
+      "comments": "Average of 2 LSQHA analysis; 5/2008 thru 11/2008 and 2/2010 thru 9/2010: deleted unstable constituents: added Ssa and Sa using nearby NWLON at Lakeworth Pier"
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.19,
+      "phase_GMT": 234.4,
+      "phase_local": 159.2,
+      "speed": 15.041069,
+      "comments": "Average of 2 LSQHA analysis; 5/2008 thru 11/2008 and 2/2010 thru 9/2010: deleted unstable constituents: added Ssa and Sa using nearby NWLON at Lakeworth Pier"
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 326.6,
+      "phase_local": 36.8,
+      "speed": 57.96821,
+      "comments": "Average of 2 LSQHA analysis; 5/2008 thru 11/2008 and 2/2010 thru 9/2010: deleted unstable constituents: added Ssa and Sa using nearby NWLON at Lakeworth Pier"
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.16,
+      "phase_GMT": 245.8,
+      "phase_local": 176.1,
+      "speed": 13.943035,
+      "comments": "Average of 2 LSQHA analysis; 5/2008 thru 11/2008 and 2/2010 thru 9/2010: deleted unstable constituents: added Ssa and Sa using nearby NWLON at Lakeworth Pier"
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 112.5,
+      "phase_local": 37.7,
+      "speed": 86.95232,
+      "comments": "Average of 2 LSQHA analysis; 5/2008 thru 11/2008 and 2/2010 thru 9/2010: deleted unstable constituents: added Ssa and Sa using nearby NWLON at Lakeworth Pier"
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 253.8,
+      "phase_local": 33.7,
+      "speed": 44.025173,
+      "comments": "Average of 2 LSQHA analysis; 5/2008 thru 11/2008 and 2/2010 thru 9/2010: deleted unstable constituents: added Ssa and Sa using nearby NWLON at Lakeworth Pier"
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 303.8,
+      "phase_local": 16.7,
+      "speed": 57.423832,
+      "comments": "Average of 2 LSQHA analysis; 5/2008 thru 11/2008 and 2/2010 thru 9/2010: deleted unstable constituents: added Ssa and Sa using nearby NWLON at Lakeworth Pier"
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 19.6,
+      "phase_local": 237.0,
+      "speed": 28.512583,
+      "comments": "Average of 2 LSQHA analysis; 5/2008 thru 11/2008 and 2/2010 thru 9/2010: deleted unstable constituents: added Ssa and Sa using nearby NWLON at Lakeworth Pier"
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 61.9,
+      "phase_local": 282.1,
+      "speed": 27.968208,
+      "comments": "Average of 2 LSQHA analysis; 5/2008 thru 11/2008 and 2/2010 thru 9/2010: deleted unstable constituents: added Ssa and Sa using nearby NWLON at Lakeworth Pier"
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 346.1,
+      "phase_local": 206.6,
+      "speed": 27.895355,
+      "comments": "Average of 2 LSQHA analysis; 5/2008 thru 11/2008 and 2/2010 thru 9/2010: deleted unstable constituents: added Ssa and Sa using nearby NWLON at Lakeworth Pier"
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 261.6,
+      "phase_local": 180.9,
+      "speed": 16.139101,
+      "comments": "Average of 2 LSQHA analysis; 5/2008 thru 11/2008 and 2/2010 thru 9/2010: deleted unstable constituents: added Ssa and Sa using nearby NWLON at Lakeworth Pier"
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 21.2,
+      "phase_local": 233.9,
+      "speed": 29.455626,
+      "comments": "Average of 2 LSQHA analysis; 5/2008 thru 11/2008 and 2/2010 thru 9/2010: deleted unstable constituents: added Ssa and Sa using nearby NWLON at Lakeworth Pier"
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 297.4,
+      "phase_local": 222.4,
+      "speed": 15.0,
+      "comments": "Average of 2 LSQHA analysis; 5/2008 thru 11/2008 and 2/2010 thru 9/2010: deleted unstable constituents: added Ssa and Sa using nearby NWLON at Lakeworth Pier"
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 312.9,
+      "phase_local": 240.4,
+      "speed": 14.496694,
+      "comments": "Average of 2 LSQHA analysis; 5/2008 thru 11/2008 and 2/2010 thru 9/2010: deleted unstable constituents: added Ssa and Sa using nearby NWLON at Lakeworth Pier"
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 238.0,
+      "phase_local": 160.1,
+      "speed": 15.5854435,
+      "comments": "Average of 2 LSQHA analysis; 5/2008 thru 11/2008 and 2/2010 thru 9/2010: deleted unstable constituents: added Ssa and Sa using nearby NWLON at Lakeworth Pier"
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.18,
+      "phase_GMT": 68.4,
+      "phase_local": 68.0,
+      "speed": 0.0821373,
+      "comments": "Average of 2 LSQHA analysis; 5/2008 thru 11/2008 and 2/2010 thru 9/2010: deleted unstable constituents: added Ssa and Sa using nearby NWLON at Lakeworth Pier"
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.26,
+      "phase_GMT": 204.5,
+      "phase_local": 204.3,
+      "speed": 0.0410686,
+      "comments": "Average of 2 LSQHA analysis; 5/2008 thru 11/2008 and 2/2010 thru 9/2010: deleted unstable constituents: added Ssa and Sa using nearby NWLON at Lakeworth Pier"
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 254.3,
+      "phase_local": 187.3,
+      "speed": 13.398661,
+      "comments": "Average of 2 LSQHA analysis; 5/2008 thru 11/2008 and 2/2010 thru 9/2010: deleted unstable constituents: added Ssa and Sa using nearby NWLON at Lakeworth Pier"
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 50.0,
+      "phase_local": 260.2,
+      "speed": 29.958933,
+      "comments": "Average of 2 LSQHA analysis; 5/2008 thru 11/2008 and 2/2010 thru 9/2010: deleted unstable constituents: added Ssa and Sa using nearby NWLON at Lakeworth Pier"
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 299.7,
+      "phase_local": 149.5,
+      "speed": 30.041067,
+      "comments": "Average of 2 LSQHA analysis; 5/2008 thru 11/2008 and 2/2010 thru 9/2010: deleted unstable constituents: added Ssa and Sa using nearby NWLON at Lakeworth Pier"
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 238.8,
+      "phase_local": 164.0,
+      "speed": 14.958931,
+      "comments": "Average of 2 LSQHA analysis; 5/2008 thru 11/2008 and 2/2010 thru 9/2010: deleted unstable constituents: added Ssa and Sa using nearby NWLON at Lakeworth Pier"
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 53.8,
+      "phase_local": 266.2,
+      "speed": 29.528479,
+      "comments": "Average of 2 LSQHA analysis; 5/2008 thru 11/2008 and 2/2010 thru 9/2010: deleted unstable constituents: added Ssa and Sa using nearby NWLON at Lakeworth Pier"
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 60.1,
+      "phase_local": 269.7,
+      "speed": 30.082138,
+      "comments": "Average of 2 LSQHA analysis; 5/2008 thru 11/2008 and 2/2010 thru 9/2010: deleted unstable constituents: added Ssa and Sa using nearby NWLON at Lakeworth Pier"
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8722548/harcon.json"
+}

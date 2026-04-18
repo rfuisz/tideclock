@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 1.26,
+      "phase_GMT": 32.7,
+      "phase_local": 247.7,
+      "speed": 28.984104,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.22,
+      "phase_GMT": 57.5,
+      "phase_local": 267.5,
+      "speed": 30.0,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.28,
+      "phase_GMT": 14.3,
+      "phase_local": 232.1,
+      "speed": 28.43973,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.19,
+      "phase_GMT": 194.3,
+      "phase_local": 119.1,
+      "speed": 15.041069,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 290.4,
+      "phase_local": 0.6,
+      "speed": 57.96821,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.15,
+      "phase_GMT": 215.5,
+      "phase_local": 145.7,
+      "speed": 13.943035,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 293.5,
+      "phase_local": 218.7,
+      "speed": 86.95232,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 74.7,
+      "phase_local": 214.6,
+      "speed": 44.025173,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 317.9,
+      "phase_local": 17.9,
+      "speed": 60.0,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 265.3,
+      "phase_local": 338.2,
+      "speed": 57.423832,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 11.6,
+      "phase_local": 229.1,
+      "speed": 28.512583,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 194.6,
+      "phase_local": 104.6,
+      "speed": 90.0,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 23.3,
+      "phase_local": 243.5,
+      "speed": 27.968208,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 3.2,
+      "phase_local": 223.7,
+      "speed": 27.895355,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 223.2,
+      "phase_local": 142.5,
+      "speed": 16.139101,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 50.9,
+      "phase_local": 263.6,
+      "speed": 29.455626,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 106.9,
+      "phase_local": 31.9,
+      "speed": 15.0,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 238.2,
+      "phase_local": 165.8,
+      "speed": 14.496694,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 197.6,
+      "phase_local": 119.6,
+      "speed": 15.5854435,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 0.5443747,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.16,
+      "phase_GMT": 44.7,
+      "phase_local": 44.3,
+      "speed": 0.0821373,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.29,
+      "phase_GMT": 156.0,
+      "phase_local": 155.8,
+      "speed": 0.0410686,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0158958,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0980331,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 204.2,
+      "phase_local": 136.9,
+      "speed": 13.471515,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 195.7,
+      "phase_local": 128.7,
+      "speed": 13.398661,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 36.7,
+      "phase_local": 246.9,
+      "speed": 29.958933,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 288.6,
+      "phase_local": 138.4,
+      "speed": 30.041067,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 190.5,
+      "phase_local": 126.2,
+      "speed": 12.854286,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 196.6,
+      "phase_local": 121.8,
+      "speed": 14.958931,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 18.0,
+      "phase_local": 222.9,
+      "speed": 31.015896,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 85.5,
+      "phase_local": 228.2,
+      "speed": 43.47616,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 36.3,
+      "phase_local": 248.7,
+      "speed": 29.528479,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 88.2,
+      "phase_local": 233.6,
+      "speed": 42.92714,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 54.6,
+      "phase_local": 264.2,
+      "speed": 30.082138,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 30.3,
+      "phase_local": 170.6,
+      "speed": 115.93642,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 155.9,
+      "phase_local": 220.9,
+      "speed": 58.984104,
+      "comments": "Vector-Averaged of 5 years (2019-2023). Sa, SSA are from Vector-average of 20 years (2000-2002,2005-2010,2013-2023).  MM, MSF, MF are set to 0 due to instability."
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8632200/harcon.json"
+}

@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 0.64,
+      "phase_GMT": 220.5,
+      "phase_local": 75.6,
+      "speed": 28.984104,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.25,
+      "phase_GMT": 249.4,
+      "phase_local": 99.4,
+      "speed": 30.0,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.12,
+      "phase_GMT": 205.5,
+      "phase_local": 63.3,
+      "speed": 28.43973,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.57,
+      "phase_GMT": 33.8,
+      "phase_local": 318.6,
+      "speed": 15.041069,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 1.2,
+      "phase_local": 71.3,
+      "speed": 57.96821,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.46,
+      "phase_GMT": 31.8,
+      "phase_local": 322.1,
+      "speed": 13.943035,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 225.7,
+      "phase_local": 151.0,
+      "speed": 86.95232,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 44.025173,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 147.3,
+      "phase_local": 207.3,
+      "speed": 60.0,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 57.423832,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 207.8,
+      "phase_local": 65.3,
+      "speed": 28.512583,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 63.5,
+      "phase_local": 333.5,
+      "speed": 90.0,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 191.9,
+      "phase_local": 52.1,
+      "speed": 27.968208,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 189.7,
+      "phase_local": 50.2,
+      "speed": 27.895355,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.02,
+      "phase_GMT": 35.6,
+      "phase_local": 314.9,
+      "speed": 16.139101,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 233.8,
+      "phase_local": 86.5,
+      "speed": 29.455626,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 15.0,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 32.7,
+      "phase_local": 320.3,
+      "speed": 14.496694,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 34.6,
+      "phase_local": 316.7,
+      "speed": 15.5854435,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 0.5443747,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.12,
+      "phase_GMT": 47.4,
+      "phase_local": 47.0,
+      "speed": 0.0821373,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.38,
+      "phase_GMT": 134.0,
+      "phase_local": 133.8,
+      "speed": 0.0410686,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0158958,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0980331,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 31.1,
+      "phase_local": 323.8,
+      "speed": 13.471515,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.09,
+      "phase_GMT": 30.9,
+      "phase_local": 323.9,
+      "speed": 13.398661,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 248.3,
+      "phase_local": 98.5,
+      "speed": 29.958933,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 250.5,
+      "phase_local": 100.3,
+      "speed": 30.041067,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 30.2,
+      "phase_local": 325.9,
+      "speed": 12.854286,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.19,
+      "phase_GMT": 33.7,
+      "phase_local": 318.9,
+      "speed": 14.958931,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 31.015896,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 43.47616,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 236.3,
+      "phase_local": 88.7,
+      "speed": 29.528479,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 42.92714,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 251.7,
+      "phase_local": 101.3,
+      "speed": 30.082138,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 115.93642,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 58.984104,
+      "comments": "Average of 4 29-day analyses (Dec 1977 - March 1978).  Sa and SSa from 8728360 Turkey Point."
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8728488/harcon.json"
+}

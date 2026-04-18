@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 0.09,
+      "phase_GMT": 183.2,
+      "phase_local": 9.3,
+      "speed": 28.984104,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.08,
+      "phase_GMT": 193.0,
+      "phase_local": 13.0,
+      "speed": 30.0,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 221.3,
+      "phase_local": 50.7,
+      "speed": 28.43973,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.58,
+      "phase_GMT": 62.4,
+      "phase_local": 332.2,
+      "speed": 15.041069,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 266.0,
+      "phase_local": 278.2,
+      "speed": 57.96821,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.48,
+      "phase_GMT": 44.3,
+      "phase_local": 320.6,
+      "speed": 13.943035,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 56.5,
+      "phase_local": 254.8,
+      "speed": 86.95232,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 44.025173,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 106.1,
+      "phase_local": 106.1,
+      "speed": 60.0,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 57.423832,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 216.2,
+      "phase_local": 45.1,
+      "speed": 28.512583,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 169.2,
+      "phase_local": 349.2,
+      "speed": 90.0,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 173.5,
+      "phase_local": 5.7,
+      "speed": 27.968208,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 259.3,
+      "phase_local": 91.9,
+      "speed": 27.895355,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.02,
+      "phase_GMT": 80.5,
+      "phase_local": 343.7,
+      "speed": 16.139101,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 29.455626,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 15.0,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 53.4,
+      "phase_local": 326.4,
+      "speed": 14.496694,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 71.4,
+      "phase_local": 337.9,
+      "speed": 15.5854435,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 0.5443747,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.16,
+      "phase_GMT": 31.7,
+      "phase_local": 31.2,
+      "speed": 0.0821373,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.35,
+      "phase_GMT": 128.3,
+      "phase_local": 128.1,
+      "speed": 0.0410686,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0158958,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0980331,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 36.6,
+      "phase_local": 315.8,
+      "speed": 13.471515,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.09,
+      "phase_GMT": 35.4,
+      "phase_local": 315.0,
+      "speed": 13.398661,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 192.6,
+      "phase_local": 12.8,
+      "speed": 29.958933,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 30.041067,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 26.4,
+      "phase_local": 309.3,
+      "speed": 12.854286,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.19,
+      "phase_GMT": 61.0,
+      "phase_local": 331.2,
+      "speed": 14.958931,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 31.015896,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 43.47616,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 145.2,
+      "phase_local": 328.0,
+      "speed": 29.528479,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 42.92714,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 193.8,
+      "phase_local": 13.3,
+      "speed": 30.082138,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 32.9,
+      "phase_local": 57.3,
+      "speed": 115.93642,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 58.984104,
+      "comments": "29 day analysis: 04/14/2021 - 05/12/2021.  Sa and SSa from 8737048"
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8733502/harcon.json"
+}

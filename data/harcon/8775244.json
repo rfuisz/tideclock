@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 57.6,
+      "phase_local": 243.7,
+      "speed": 28.984104,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 356.4,
+      "phase_local": 176.4,
+      "speed": 30.0,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 31.5,
+      "phase_local": 220.9,
+      "speed": 28.43973,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.21,
+      "phase_GMT": 131.6,
+      "phase_local": 41.4,
+      "speed": 15.041069,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 335.0,
+      "phase_local": 347.2,
+      "speed": 57.96821,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.21,
+      "phase_GMT": 110.9,
+      "phase_local": 27.2,
+      "speed": 13.943035,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 86.95232,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 54.7,
+      "phase_local": 150.5,
+      "speed": 44.025173,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 136.8,
+      "phase_local": 136.8,
+      "speed": 60.0,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 309.6,
+      "phase_local": 325.1,
+      "speed": 57.423832,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 71.5,
+      "phase_local": 260.4,
+      "speed": 28.512583,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 90.0,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 281.1,
+      "phase_local": 113.3,
+      "speed": 27.968208,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 169.2,
+      "phase_local": 1.8,
+      "speed": 27.895355,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.02,
+      "phase_GMT": 133.5,
+      "phase_local": 36.7,
+      "speed": 16.139101,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 29.455626,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 184.9,
+      "phase_local": 94.9,
+      "speed": 15.0,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 214.1,
+      "phase_local": 127.1,
+      "speed": 14.496694,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 107.5,
+      "phase_local": 14.0,
+      "speed": 15.5854435,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.09,
+      "phase_GMT": 28.4,
+      "phase_local": 25.1,
+      "speed": 0.5443747,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.38,
+      "phase_GMT": 57.9,
+      "phase_local": 57.4,
+      "speed": 0.0821373,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.24,
+      "phase_GMT": 148.8,
+      "phase_local": 148.5,
+      "speed": 0.0410686,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0158958,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0980331,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 88.5,
+      "phase_local": 7.7,
+      "speed": 13.471515,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 93.8,
+      "phase_local": 13.4,
+      "speed": 13.398661,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 45.5,
+      "phase_local": 225.7,
+      "speed": 29.958933,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 334.8,
+      "phase_local": 154.6,
+      "speed": 30.041067,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 264.4,
+      "phase_local": 187.3,
+      "speed": 12.854286,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.08,
+      "phase_GMT": 138.4,
+      "phase_local": 48.6,
+      "speed": 14.958931,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 31.015896,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 259.5,
+      "phase_local": 358.6,
+      "speed": 43.47616,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 93.6,
+      "phase_local": 276.4,
+      "speed": 29.528479,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 53.0,
+      "phase_local": 155.4,
+      "speed": 42.92714,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 47.4,
+      "phase_local": 226.9,
+      "speed": 30.082138,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 115.93642,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 58.984104,
+      "comments": "1 year LSQHA (11/21-10/22). Mm, SSa. Sa from 8775296"
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8775244/harcon.json"
+}

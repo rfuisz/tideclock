@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 0.48,
+      "phase_GMT": 230.0,
+      "phase_local": 85.1,
+      "speed": 28.984104,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.14,
+      "phase_GMT": 230.8,
+      "phase_local": 80.8,
+      "speed": 30.0,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.1,
+      "phase_GMT": 215.4,
+      "phase_local": 73.2,
+      "speed": 28.43973,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.48,
+      "phase_GMT": 69.2,
+      "phase_local": 354.0,
+      "speed": 15.041069,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 11.1,
+      "phase_local": 81.3,
+      "speed": 57.96821,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.37,
+      "phase_GMT": 62.7,
+      "phase_local": 353.0,
+      "speed": 13.943035,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 71.9,
+      "phase_local": 357.1,
+      "speed": 86.95232,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 44.025173,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 2.0,
+      "phase_local": 62.0,
+      "speed": 60.0,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 57.423832,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 217.4,
+      "phase_local": 74.8,
+      "speed": 28.512583,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 36.8,
+      "phase_local": 306.8,
+      "speed": 90.0,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 229.3,
+      "phase_local": 89.5,
+      "speed": 27.968208,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 200.8,
+      "phase_local": 61.3,
+      "speed": 27.895355,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.02,
+      "phase_GMT": 75.6,
+      "phase_local": 354.9,
+      "speed": 16.139101,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 230.4,
+      "phase_local": 83.1,
+      "speed": 29.455626,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 15.0,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 66.0,
+      "phase_local": 353.5,
+      "speed": 14.496694,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 72.4,
+      "phase_local": 354.5,
+      "speed": 15.5854435,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 0.5443747,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.1,
+      "phase_GMT": 66.7,
+      "phase_local": 66.3,
+      "speed": 0.0821373,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.25,
+      "phase_GMT": 167.9,
+      "phase_local": 167.7,
+      "speed": 0.0410686,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0158958,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0980331,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 60.0,
+      "phase_local": 352.6,
+      "speed": 13.471515,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 59.5,
+      "phase_local": 352.5,
+      "speed": 13.398661,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 230.7,
+      "phase_local": 80.9,
+      "speed": 29.958933,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 30.041067,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 56.3,
+      "phase_local": 352.0,
+      "speed": 12.854286,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.16,
+      "phase_GMT": 68.7,
+      "phase_local": 353.9,
+      "speed": 14.958931,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 31.015896,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 43.47616,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 244.6,
+      "phase_local": 97.0,
+      "speed": 29.528479,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 42.92714,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 230.8,
+      "phase_local": 80.4,
+      "speed": 30.082138,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 132.0,
+      "phase_local": 272.3,
+      "speed": 115.93642,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 58.984104,
+      "comments": "29-day harmonic analysis, May 1978.  Sa and Ssa from 8725110 Naples."
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8725745/harcon.json"
+}

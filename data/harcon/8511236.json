@@ -1,0 +1,266 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 1.22,
+      "phase_GMT": 73.6,
+      "phase_local": 288.7,
+      "speed": 28.984104,
+      "comments": "average of 3 lsqha analyses; 1963, 1964, 6-mos 1989; added sa,ssa from montauk"
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.22,
+      "phase_GMT": 84.7,
+      "phase_local": 294.7,
+      "speed": 30.0,
+      "comments": "average of 3 lsqha analyses; 1963, 1964, 6-mos 1989; added sa,ssa from montauk"
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.29,
+      "phase_GMT": 44.6,
+      "phase_local": 262.4,
+      "speed": 28.43973,
+      "comments": "average of 3 lsqha analyses; 1963, 1964, 6-mos 1989; added sa,ssa from montauk"
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.25,
+      "phase_GMT": 180.5,
+      "phase_local": 105.3,
+      "speed": 15.041069,
+      "comments": "average of 3 lsqha analyses; 1963, 1964, 6-mos 1989; added sa,ssa from montauk"
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 12.1,
+      "phase_local": 82.3,
+      "speed": 57.96821,
+      "comments": "average of 3 lsqha analyses; 1963, 1964, 6-mos 1989; added sa,ssa from montauk"
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.17,
+      "phase_GMT": 212.7,
+      "phase_local": 143.0,
+      "speed": 13.943035,
+      "comments": "average of 3 lsqha analyses; 1963, 1964, 6-mos 1989; added sa,ssa from montauk"
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 237.1,
+      "phase_local": 162.3,
+      "speed": 86.95232,
+      "comments": "average of 3 lsqha analyses; 1963, 1964, 6-mos 1989; added sa,ssa from montauk"
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 319.5,
+      "phase_local": 32.3,
+      "speed": 57.423832,
+      "comments": "average of 3 lsqha analyses; 1963, 1964, 6-mos 1989; added sa,ssa from montauk"
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 55.6,
+      "phase_local": 273.0,
+      "speed": 28.512583,
+      "comments": "average of 3 lsqha analyses; 1963, 1964, 6-mos 1989; added sa,ssa from montauk"
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 350.4,
+      "phase_local": 210.6,
+      "speed": 27.968208,
+      "comments": "average of 3 lsqha analyses; 1963, 1964, 6-mos 1989; added sa,ssa from montauk"
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 16.1,
+      "phase_local": 236.6,
+      "speed": 27.895355,
+      "comments": "average of 3 lsqha analyses; 1963, 1964, 6-mos 1989; added sa,ssa from montauk"
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.02,
+      "phase_GMT": 225.5,
+      "phase_local": 144.8,
+      "speed": 16.139101,
+      "comments": "average of 3 lsqha analyses; 1963, 1964, 6-mos 1989; added sa,ssa from montauk"
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 134.1,
+      "phase_local": 346.8,
+      "speed": 29.455626,
+      "comments": "average of 3 lsqha analyses; 1963, 1964, 6-mos 1989; added sa,ssa from montauk"
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 148.9,
+      "phase_local": 73.9,
+      "speed": 15.0,
+      "comments": "average of 3 lsqha analyses; 1963, 1964, 6-mos 1989; added sa,ssa from montauk"
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 201.1,
+      "phase_local": 128.6,
+      "speed": 14.496694,
+      "comments": "average of 3 lsqha analyses; 1963, 1964, 6-mos 1989; added sa,ssa from montauk"
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 230.1,
+      "phase_local": 152.2,
+      "speed": 15.5854435,
+      "comments": "average of 3 lsqha analyses; 1963, 1964, 6-mos 1989; added sa,ssa from montauk"
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.11,
+      "phase_GMT": 50.9,
+      "phase_local": 50.5,
+      "speed": 0.0821373,
+      "comments": "average of 3 lsqha analyses; 1963, 1964, 6-mos 1989; added sa,ssa from montauk"
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.23,
+      "phase_GMT": 135.1,
+      "phase_local": 134.9,
+      "speed": 0.0410686,
+      "comments": "average of 3 lsqha analyses; 1963, 1964, 6-mos 1989; added sa,ssa from montauk"
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 202.7,
+      "phase_local": 135.7,
+      "speed": 13.398661,
+      "comments": "average of 3 lsqha analyses; 1963, 1964, 6-mos 1989; added sa,ssa from montauk"
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 56.2,
+      "phase_local": 266.4,
+      "speed": 29.958933,
+      "comments": "average of 3 lsqha analyses; 1963, 1964, 6-mos 1989; added sa,ssa from montauk"
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.02,
+      "phase_GMT": 169.6,
+      "phase_local": 105.4,
+      "speed": 12.854286,
+      "comments": "average of 3 lsqha analyses; 1963, 1964, 6-mos 1989; added sa,ssa from montauk"
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.08,
+      "phase_GMT": 188.7,
+      "phase_local": 113.9,
+      "speed": 14.958931,
+      "comments": "average of 3 lsqha analyses; 1963, 1964, 6-mos 1989; added sa,ssa from montauk"
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 65.4,
+      "phase_local": 208.0,
+      "speed": 43.47616,
+      "comments": "average of 3 lsqha analyses; 1963, 1964, 6-mos 1989; added sa,ssa from montauk"
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 139.2,
+      "phase_local": 351.6,
+      "speed": 29.528479,
+      "comments": "average of 3 lsqha analyses; 1963, 1964, 6-mos 1989; added sa,ssa from montauk"
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 15.8,
+      "phase_local": 161.1,
+      "speed": 42.92714,
+      "comments": "average of 3 lsqha analyses; 1963, 1964, 6-mos 1989; added sa,ssa from montauk"
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 80.1,
+      "phase_local": 289.7,
+      "speed": 30.082138,
+      "comments": "average of 3 lsqha analyses; 1963, 1964, 6-mos 1989; added sa,ssa from montauk"
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8511236/harcon.json"
+}

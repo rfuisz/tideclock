@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 3.45,
+      "phase_GMT": 10.8,
+      "phase_local": 138.9,
+      "speed": 28.984104,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.84,
+      "phase_GMT": 35.3,
+      "phase_local": 155.3,
+      "speed": 30.0,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.7,
+      "phase_GMT": 342.1,
+      "phase_local": 114.6,
+      "speed": 28.43973,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 2.61,
+      "phase_GMT": 277.8,
+      "phase_local": 157.5,
+      "speed": 15.041069,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 183.8,
+      "phase_local": 80.0,
+      "speed": 57.96821,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 1.54,
+      "phase_GMT": 257.0,
+      "phase_local": 145.4,
+      "speed": 13.943035,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 323.0,
+      "phase_local": 347.4,
+      "speed": 86.95232,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 44.025173,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 203.4,
+      "phase_local": 83.4,
+      "speed": 60.0,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 57.423832,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.14,
+      "phase_GMT": 346.0,
+      "phase_local": 117.9,
+      "speed": 28.512583,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 90.0,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.08,
+      "phase_GMT": 346.3,
+      "phase_local": 122.5,
+      "speed": 27.968208,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.09,
+      "phase_GMT": 313.5,
+      "phase_local": 90.3,
+      "speed": 27.895355,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.07,
+      "phase_GMT": 298.8,
+      "phase_local": 169.6,
+      "speed": 16.139101,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 22.1,
+      "phase_local": 146.5,
+      "speed": 29.455626,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 15.0,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.11,
+      "phase_GMT": 267.5,
+      "phase_local": 151.5,
+      "speed": 14.496694,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.12,
+      "phase_GMT": 288.2,
+      "phase_local": 163.5,
+      "speed": 15.5854435,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 0.5443747,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.11,
+      "phase_GMT": 231.1,
+      "phase_local": 230.4,
+      "speed": 0.0821373,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.25,
+      "phase_GMT": 292.9,
+      "phase_local": 292.6,
+      "speed": 0.0410686,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0158958,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 140.5,
+      "phase_local": 131.7,
+      "speed": 1.0980331,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 248.0,
+      "phase_local": 140.3,
+      "speed": 13.471515,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.3,
+      "phase_GMT": 246.6,
+      "phase_local": 139.4,
+      "speed": 13.398661,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 34.3,
+      "phase_local": 154.6,
+      "speed": 29.958933,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 36.2,
+      "phase_local": 155.9,
+      "speed": 30.041067,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.04,
+      "phase_GMT": 236.2,
+      "phase_local": 133.4,
+      "speed": 12.854286,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.86,
+      "phase_GMT": 276.3,
+      "phase_local": 156.6,
+      "speed": 14.958931,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 31.015896,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 43.47616,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.1,
+      "phase_GMT": 39.4,
+      "phase_local": 163.1,
+      "speed": 29.528479,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 42.92714,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.23,
+      "phase_GMT": 37.3,
+      "phase_local": 156.6,
+      "speed": 30.082138,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 115.93642,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 58.984104,
+      "comments": "average of three 29-day HA, June - August 2014: added Sa, Ssa, Mf using Seattle"
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/9448009/harcon.json"
+}

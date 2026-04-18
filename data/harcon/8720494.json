@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 1.97,
+      "phase_GMT": 53.4,
+      "phase_local": 268.5,
+      "speed": 28.984104,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.26,
+      "phase_GMT": 85.1,
+      "phase_local": 295.1,
+      "speed": 30.0,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.37,
+      "phase_GMT": 41.4,
+      "phase_local": 259.2,
+      "speed": 28.43973,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.31,
+      "phase_GMT": 223.9,
+      "phase_local": 148.7,
+      "speed": 15.041069,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.11,
+      "phase_GMT": 270.0,
+      "phase_local": 340.2,
+      "speed": 57.96821,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.24,
+      "phase_GMT": 228.0,
+      "phase_local": 158.3,
+      "speed": 13.943035,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.08,
+      "phase_GMT": 160.5,
+      "phase_local": 85.7,
+      "speed": 86.95232,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.06,
+      "phase_GMT": 80.4,
+      "phase_local": 220.3,
+      "speed": 44.025173,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 338.6,
+      "phase_local": 38.6,
+      "speed": 60.0,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 263.6,
+      "phase_local": 336.5,
+      "speed": 57.423832,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.11,
+      "phase_GMT": 25.4,
+      "phase_local": 242.8,
+      "speed": 28.512583,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 90.0,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 126.0,
+      "phase_local": 346.2,
+      "speed": 27.968208,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.09,
+      "phase_GMT": 14.2,
+      "phase_local": 234.7,
+      "speed": 27.895355,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 226.6,
+      "phase_local": 145.9,
+      "speed": 16.139101,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 52.1,
+      "phase_local": 264.8,
+      "speed": 29.455626,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 190.8,
+      "phase_local": 115.8,
+      "speed": 15.0,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 316.3,
+      "phase_local": 243.8,
+      "speed": 14.496694,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 254.0,
+      "phase_local": 176.1,
+      "speed": 15.5854435,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 0.5443747,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.31,
+      "phase_GMT": 52.8,
+      "phase_local": 52.4,
+      "speed": 0.0821373,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.37,
+      "phase_GMT": 188.2,
+      "phase_local": 188.0,
+      "speed": 0.0410686,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0158958,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0980331,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 251.7,
+      "phase_local": 184.3,
+      "speed": 13.471515,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 213.9,
+      "phase_local": 146.9,
+      "speed": 13.398661,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 50.3,
+      "phase_local": 260.5,
+      "speed": 29.958933,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 334.9,
+      "phase_local": 184.7,
+      "speed": 30.041067,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.0,
+      "phase_GMT": 247.5,
+      "phase_local": 183.2,
+      "speed": 12.854286,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.1,
+      "phase_GMT": 220.9,
+      "phase_local": 146.1,
+      "speed": 14.958931,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 112.4,
+      "phase_local": 317.3,
+      "speed": 31.015896,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 224.8,
+      "phase_local": 7.4,
+      "speed": 43.47616,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.1,
+      "phase_GMT": 37.6,
+      "phase_local": 250.0,
+      "speed": 29.528479,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 77.3,
+      "phase_local": 222.7,
+      "speed": 42.92714,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 83.9,
+      "phase_local": 293.5,
+      "speed": 30.082138,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 350.7,
+      "phase_local": 131.0,
+      "speed": 115.93642,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 294.1,
+      "phase_local": 359.2,
+      "speed": 58.984104,
+      "comments": "365-day LSQHA Apr1 2022 - Mar 31 2023.  Sa and SSa from 8720218."
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8720494/harcon.json"
+}

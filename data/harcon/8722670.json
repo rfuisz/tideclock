@@ -1,0 +1,286 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 1.34,
+      "phase_GMT": 13.8,
+      "phase_local": 228.8,
+      "speed": 28.984104,
+      "comments": "average of 5 HA-365 day analyses starting: 7/2010;7/2011;7/2012;7/2013;7/2014 - deleted unstable and lowest amplitude constituents"
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.22,
+      "phase_GMT": 35.0,
+      "phase_local": 245.0,
+      "speed": 30.0,
+      "comments": "average of 5 HA-365 day analyses starting: 7/2010;7/2011;7/2012;7/2013;7/2014 - deleted unstable and lowest amplitude constituents"
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.31,
+      "phase_GMT": 354.1,
+      "phase_local": 211.9,
+      "speed": 28.43973,
+      "comments": "average of 5 HA-365 day analyses starting: 7/2010;7/2011;7/2012;7/2013;7/2014 - deleted unstable and lowest amplitude constituents"
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.19,
+      "phase_GMT": 219.0,
+      "phase_local": 143.8,
+      "speed": 15.041069,
+      "comments": "average of 5 HA-365 day analyses starting: 7/2010;7/2011;7/2012;7/2013;7/2014 - deleted unstable and lowest amplitude constituents"
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 187.0,
+      "phase_local": 257.1,
+      "speed": 57.96821,
+      "comments": "average of 5 HA-365 day analyses starting: 7/2010;7/2011;7/2012;7/2013;7/2014 - deleted unstable and lowest amplitude constituents"
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.15,
+      "phase_GMT": 236.2,
+      "phase_local": 166.5,
+      "speed": 13.943035,
+      "comments": "average of 5 HA-365 day analyses starting: 7/2010;7/2011;7/2012;7/2013;7/2014 - deleted unstable and lowest amplitude constituents"
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 258.5,
+      "phase_local": 318.5,
+      "speed": 60.0,
+      "comments": "average of 5 HA-365 day analyses starting: 7/2010;7/2011;7/2012;7/2013;7/2014 - deleted unstable and lowest amplitude constituents"
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 173.5,
+      "phase_local": 246.4,
+      "speed": 57.423832,
+      "comments": "average of 5 HA-365 day analyses starting: 7/2010;7/2011;7/2012;7/2013;7/2014 - deleted unstable and lowest amplitude constituents"
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 353.1,
+      "phase_local": 210.5,
+      "speed": 28.512583,
+      "comments": "average of 5 HA-365 day analyses starting: 7/2010;7/2011;7/2012;7/2013;7/2014 - deleted unstable and lowest amplitude constituents"
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 353.4,
+      "phase_local": 213.5,
+      "speed": 27.968208,
+      "comments": "average of 5 HA-365 day analyses starting: 7/2010;7/2011;7/2012;7/2013;7/2014 - deleted unstable and lowest amplitude constituents"
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 339.3,
+      "phase_local": 199.8,
+      "speed": 27.895355,
+      "comments": "average of 5 HA-365 day analyses starting: 7/2010;7/2011;7/2012;7/2013;7/2014 - deleted unstable and lowest amplitude constituents"
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 226.6,
+      "phase_local": 145.9,
+      "speed": 16.139101,
+      "comments": "average of 5 HA-365 day analyses starting: 7/2010;7/2011;7/2012;7/2013;7/2014 - deleted unstable and lowest amplitude constituents"
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 37.3,
+      "phase_local": 250.0,
+      "speed": 29.455626,
+      "comments": "average of 5 HA-365 day analyses starting: 7/2010;7/2011;7/2012;7/2013;7/2014 - deleted unstable and lowest amplitude constituents"
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 249.1,
+      "phase_local": 174.1,
+      "speed": 15.0,
+      "comments": "average of 5 HA-365 day analyses starting: 7/2010;7/2011;7/2012;7/2013;7/2014 - deleted unstable and lowest amplitude constituents"
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 253.7,
+      "phase_local": 181.2,
+      "speed": 14.496694,
+      "comments": "average of 5 HA-365 day analyses starting: 7/2010;7/2011;7/2012;7/2013;7/2014 - deleted unstable and lowest amplitude constituents"
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 216.1,
+      "phase_local": 138.2,
+      "speed": 15.5854435,
+      "comments": "average of 5 HA-365 day analyses starting: 7/2010;7/2011;7/2012;7/2013;7/2014 - deleted unstable and lowest amplitude constituents"
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.18,
+      "phase_GMT": 68.4,
+      "phase_local": 68.0,
+      "speed": 0.0821373,
+      "comments": "average of 5 HA-365 day analyses starting: 7/2010;7/2011;7/2012;7/2013;7/2014 - deleted unstable and lowest amplitude constituents"
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.26,
+      "phase_GMT": 204.5,
+      "phase_local": 204.3,
+      "speed": 0.0410686,
+      "comments": "average of 5 HA-365 day analyses starting: 7/2010;7/2011;7/2012;7/2013;7/2014 - deleted unstable and lowest amplitude constituents"
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 230.4,
+      "phase_local": 163.1,
+      "speed": 13.471515,
+      "comments": "average of 5 HA-365 day analyses starting: 7/2010;7/2011;7/2012;7/2013;7/2014 - deleted unstable and lowest amplitude constituents"
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 232.6,
+      "phase_local": 165.6,
+      "speed": 13.398661,
+      "comments": "average of 5 HA-365 day analyses starting: 7/2010;7/2011;7/2012;7/2013;7/2014 - deleted unstable and lowest amplitude constituents"
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 21.9,
+      "phase_local": 232.1,
+      "speed": 29.958933,
+      "comments": "average of 5 HA-365 day analyses starting: 7/2010;7/2011;7/2012;7/2013;7/2014 - deleted unstable and lowest amplitude constituents"
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 251.0,
+      "phase_local": 100.8,
+      "speed": 30.041067,
+      "comments": "average of 5 HA-365 day analyses starting: 7/2010;7/2011;7/2012;7/2013;7/2014 - deleted unstable and lowest amplitude constituents"
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 219.6,
+      "phase_local": 144.8,
+      "speed": 14.958931,
+      "comments": "average of 5 HA-365 day analyses starting: 7/2010;7/2011;7/2012;7/2013;7/2014 - deleted unstable and lowest amplitude constituents"
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 39.4,
+      "phase_local": 244.3,
+      "speed": 31.015896,
+      "comments": "average of 5 HA-365 day analyses starting: 7/2010;7/2011;7/2012;7/2013;7/2014 - deleted unstable and lowest amplitude constituents"
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 36.3,
+      "phase_local": 178.9,
+      "speed": 43.47616,
+      "comments": "average of 5 HA-365 day analyses starting: 7/2010;7/2011;7/2012;7/2013;7/2014 - deleted unstable and lowest amplitude constituents"
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 15.2,
+      "phase_local": 227.5,
+      "speed": 29.528479,
+      "comments": "average of 5 HA-365 day analyses starting: 7/2010;7/2011;7/2012;7/2013;7/2014 - deleted unstable and lowest amplitude constituents"
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 35.1,
+      "phase_local": 244.7,
+      "speed": 30.082138,
+      "comments": "average of 5 HA-365 day analyses starting: 7/2010;7/2011;7/2012;7/2013;7/2014 - deleted unstable and lowest amplitude constituents"
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 133.3,
+      "phase_local": 198.4,
+      "speed": 58.984104,
+      "comments": "average of 5 HA-365 day analyses starting: 7/2010;7/2011;7/2012;7/2013;7/2014 - deleted unstable and lowest amplitude constituents"
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8722670/harcon.json"
+}

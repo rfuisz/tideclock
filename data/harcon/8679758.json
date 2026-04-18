@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 3.0,
+      "phase_GMT": 37.4,
+      "phase_local": 252.5,
+      "speed": 28.984104,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.46,
+      "phase_GMT": 67.0,
+      "phase_local": 277.0,
+      "speed": 30.0,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.62,
+      "phase_GMT": 25.2,
+      "phase_local": 243.0,
+      "speed": 28.43973,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.33,
+      "phase_GMT": 212.0,
+      "phase_local": 136.8,
+      "speed": 15.041069,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.11,
+      "phase_GMT": 222.0,
+      "phase_local": 292.2,
+      "speed": 57.96821,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.26,
+      "phase_GMT": 216.9,
+      "phase_local": 147.2,
+      "speed": 13.943035,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 161.8,
+      "phase_local": 87.0,
+      "speed": 86.95232,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.05,
+      "phase_GMT": 36.9,
+      "phase_local": 176.8,
+      "speed": 44.025173,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 359.9,
+      "phase_local": 59.9,
+      "speed": 60.0,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 223.8,
+      "phase_local": 296.7,
+      "speed": 57.423832,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.13,
+      "phase_GMT": 21.5,
+      "phase_local": 238.9,
+      "speed": 28.512583,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 74.3,
+      "phase_local": 344.3,
+      "speed": 90.0,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.11,
+      "phase_GMT": 92.1,
+      "phase_local": 312.3,
+      "speed": 27.968208,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.08,
+      "phase_GMT": 31.1,
+      "phase_local": 251.6,
+      "speed": 27.895355,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.03,
+      "phase_GMT": 211.2,
+      "phase_local": 130.5,
+      "speed": 16.139101,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 16.8,
+      "phase_local": 229.5,
+      "speed": 29.455626,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 161.2,
+      "phase_local": 86.2,
+      "speed": 15.0,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 268.7,
+      "phase_local": 196.2,
+      "speed": 14.496694,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 276.8,
+      "phase_local": 198.9,
+      "speed": 15.5854435,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 0.5443747,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.23,
+      "phase_GMT": 54.7,
+      "phase_local": 54.3,
+      "speed": 0.0821373,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.28,
+      "phase_GMT": 196.6,
+      "phase_local": 196.4,
+      "speed": 0.0410686,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0158958,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0980331,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 201.3,
+      "phase_local": 133.9,
+      "speed": 13.471515,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 210.1,
+      "phase_local": 143.1,
+      "speed": 13.398661,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 104.7,
+      "phase_local": 314.9,
+      "speed": 29.958933,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 236.8,
+      "phase_local": 86.6,
+      "speed": 30.041067,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 308.2,
+      "phase_local": 243.9,
+      "speed": 12.854286,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.11,
+      "phase_GMT": 208.8,
+      "phase_local": 134.0,
+      "speed": 14.958931,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 45.5,
+      "phase_local": 250.4,
+      "speed": 31.015896,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 179.2,
+      "phase_local": 321.8,
+      "speed": 43.47616,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.16,
+      "phase_GMT": 15.5,
+      "phase_local": 227.9,
+      "speed": 29.528479,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 43.8,
+      "phase_local": 189.2,
+      "speed": 42.92714,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.14,
+      "phase_GMT": 48.2,
+      "phase_local": 257.8,
+      "speed": 30.082138,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 328.0,
+      "phase_local": 108.3,
+      "speed": 115.93642,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 247.8,
+      "phase_local": 312.9,
+      "speed": 58.984104,
+      "comments": "272-day analysis (Jun 2, 1979 - Feb 28, 1980). Sa and Ssa from 8720030."
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8679758/harcon.json"
+}

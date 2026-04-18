@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 2.55,
+      "phase_GMT": 27.1,
+      "phase_local": 155.2,
+      "speed": 28.984104,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.62,
+      "phase_GMT": 54.4,
+      "phase_local": 174.4,
+      "speed": 30.0,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.53,
+      "phase_GMT": 359.7,
+      "phase_local": 132.2,
+      "speed": 28.43973,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 2.77,
+      "phase_GMT": 285.6,
+      "phase_local": 165.2,
+      "speed": 15.041069,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 174.6,
+      "phase_local": 70.9,
+      "speed": 57.96821,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 1.53,
+      "phase_GMT": 261.0,
+      "phase_local": 149.5,
+      "speed": 13.943035,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 68.4,
+      "phase_local": 92.8,
+      "speed": 86.95232,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 44.025173,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 199.3,
+      "phase_local": 79.3,
+      "speed": 60.0,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 57.423832,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.1,
+      "phase_GMT": 3.3,
+      "phase_local": 135.2,
+      "speed": 28.512583,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 191.3,
+      "phase_local": 191.3,
+      "speed": 90.0,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 359.8,
+      "phase_local": 136.0,
+      "speed": 27.968208,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 332.2,
+      "phase_local": 109.1,
+      "speed": 27.895355,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.07,
+      "phase_GMT": 310.1,
+      "phase_local": 181.0,
+      "speed": 16.139101,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 39.8,
+      "phase_local": 164.1,
+      "speed": 29.455626,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 15.0,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.11,
+      "phase_GMT": 273.4,
+      "phase_local": 157.4,
+      "speed": 14.496694,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.12,
+      "phase_GMT": 297.8,
+      "phase_local": 173.1,
+      "speed": 15.5854435,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 141.5,
+      "phase_local": 137.1,
+      "speed": 0.5443747,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.09,
+      "phase_GMT": 227.1,
+      "phase_local": 226.4,
+      "speed": 0.0821373,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.21,
+      "phase_GMT": 276.9,
+      "phase_local": 276.6,
+      "speed": 0.0410686,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0158958,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0980331,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 250.6,
+      "phase_local": 142.8,
+      "speed": 13.471515,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.3,
+      "phase_GMT": 248.8,
+      "phase_local": 141.7,
+      "speed": 13.398661,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 53.3,
+      "phase_local": 173.7,
+      "speed": 29.958933,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 55.5,
+      "phase_local": 175.2,
+      "speed": 30.041067,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.04,
+      "phase_GMT": 236.8,
+      "phase_local": 133.9,
+      "speed": 12.854286,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.92,
+      "phase_GMT": 283.7,
+      "phase_local": 164.0,
+      "speed": 14.958931,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 31.015896,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 43.47616,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 54.4,
+      "phase_local": 178.2,
+      "speed": 29.528479,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 42.92714,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.17,
+      "phase_GMT": 56.6,
+      "phase_local": 175.9,
+      "speed": 30.082138,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 115.93642,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 58.984104,
+      "comments": "Average of 3 29-day analyses (8-10/2015).  MM, Sa, and SSa from 9449424."
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/9449639/harcon.json"
+}

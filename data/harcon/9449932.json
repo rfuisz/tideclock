@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 1.88,
+      "phase_GMT": 0.4,
+      "phase_local": 128.6,
+      "speed": 28.984104,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.47,
+      "phase_GMT": 22.0,
+      "phase_local": 142.0,
+      "speed": 30.0,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.41,
+      "phase_GMT": 330.5,
+      "phase_local": 103.0,
+      "speed": 28.43973,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 2.48,
+      "phase_GMT": 276.4,
+      "phase_local": 156.1,
+      "speed": 15.041069,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.08,
+      "phase_GMT": 121.8,
+      "phase_local": 18.1,
+      "speed": 57.96821,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 1.43,
+      "phase_GMT": 255.6,
+      "phase_local": 144.1,
+      "speed": 13.943035,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 202.4,
+      "phase_local": 226.8,
+      "speed": 86.95232,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.1,
+      "phase_GMT": 24.6,
+      "phase_local": 32.4,
+      "speed": 44.025173,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 149.6,
+      "phase_local": 29.6,
+      "speed": 60.0,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 89.2,
+      "phase_local": 349.8,
+      "speed": 57.423832,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.08,
+      "phase_GMT": 340.1,
+      "phase_local": 112.0,
+      "speed": 28.512583,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 90.0,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.09,
+      "phase_GMT": 260.8,
+      "phase_local": 37.1,
+      "speed": 27.968208,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 279.6,
+      "phase_local": 56.5,
+      "speed": 27.895355,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.1,
+      "phase_GMT": 332.9,
+      "phase_local": 203.8,
+      "speed": 16.139101,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 69.3,
+      "phase_local": 193.6,
+      "speed": 29.455626,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 57.1,
+      "phase_local": 297.1,
+      "speed": 15.0,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.1,
+      "phase_GMT": 287.5,
+      "phase_local": 171.5,
+      "speed": 14.496694,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.14,
+      "phase_GMT": 303.5,
+      "phase_local": 178.9,
+      "speed": 15.5854435,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.08,
+      "phase_GMT": 187.7,
+      "phase_local": 183.3,
+      "speed": 0.5443747,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 0.0821373,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.33,
+      "phase_GMT": 287.6,
+      "phase_local": 287.3,
+      "speed": 0.0410686,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0158958,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 146.8,
+      "phase_local": 138.0,
+      "speed": 1.0980331,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 246.0,
+      "phase_local": 138.2,
+      "speed": 13.471515,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.25,
+      "phase_GMT": 245.9,
+      "phase_local": 138.7,
+      "speed": 13.398661,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 24.5,
+      "phase_local": 144.8,
+      "speed": 29.958933,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 332.5,
+      "phase_local": 92.1,
+      "speed": 30.041067,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.02,
+      "phase_GMT": 243.5,
+      "phase_local": 140.7,
+      "speed": 12.854286,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.8,
+      "phase_GMT": 274.9,
+      "phase_local": 155.2,
+      "speed": 14.958931,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 317.0,
+      "phase_local": 68.8,
+      "speed": 31.015896,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 44.5,
+      "phase_local": 56.7,
+      "speed": 43.47616,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 53.1,
+      "phase_local": 176.9,
+      "speed": 29.528479,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 15.7,
+      "phase_local": 32.3,
+      "speed": 42.92714,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.13,
+      "phase_GMT": 38.7,
+      "phase_local": 158.0,
+      "speed": 30.082138,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 72.5,
+      "phase_local": 225.0,
+      "speed": 115.93642,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 142.4,
+      "phase_local": 30.5,
+      "speed": 58.984104,
+      "comments": "Average of 2 one-year LSQHA (Feb98, Jan99).  Mm, Sa, Msf from 9444090 Port Angeles."
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/9449932/harcon.json"
+}

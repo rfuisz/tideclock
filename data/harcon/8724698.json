@@ -1,0 +1,266 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 0.45,
+      "phase_GMT": 78.7,
+      "phase_local": 293.8,
+      "speed": 28.984104,
+      "comments": "HA - 365 day analysis - substituted in Ssa and Sa from Key West and deleted low amplitude constituents"
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.15,
+      "phase_GMT": 92.0,
+      "phase_local": 302.0,
+      "speed": 30.0,
+      "comments": "HA - 365 day analysis - substituted in Ssa and Sa from Key West and deleted low amplitude constituents"
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.1,
+      "phase_GMT": 66.2,
+      "phase_local": 284.0,
+      "speed": 28.43973,
+      "comments": "HA - 365 day analysis - substituted in Ssa and Sa from Key West and deleted low amplitude constituents"
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.35,
+      "phase_GMT": 359.5,
+      "phase_local": 284.3,
+      "speed": 15.041069,
+      "comments": "HA - 365 day analysis - substituted in Ssa and Sa from Key West and deleted low amplitude constituents"
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 250.0,
+      "phase_local": 320.2,
+      "speed": 57.96821,
+      "comments": "HA - 365 day analysis - substituted in Ssa and Sa from Key West and deleted low amplitude constituents"
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.36,
+      "phase_GMT": 354.3,
+      "phase_local": 284.6,
+      "speed": 13.943035,
+      "comments": "HA - 365 day analysis - substituted in Ssa and Sa from Key West and deleted low amplitude constituents"
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 86.95232,
+      "comments": "HA - 365 day analysis - substituted in Ssa and Sa from Key West and deleted low amplitude constituents"
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 220.3,
+      "phase_local": 293.2,
+      "speed": 57.423832,
+      "comments": "HA - 365 day analysis - substituted in Ssa and Sa from Key West and deleted low amplitude constituents"
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 82.1,
+      "phase_local": 299.5,
+      "speed": 28.512583,
+      "comments": "HA - 365 day analysis - substituted in Ssa and Sa from Key West and deleted low amplitude constituents"
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 37.5,
+      "phase_local": 257.7,
+      "speed": 27.968208,
+      "comments": "HA - 365 day analysis - substituted in Ssa and Sa from Key West and deleted low amplitude constituents"
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 62.1,
+      "phase_local": 282.6,
+      "speed": 27.895355,
+      "comments": "HA - 365 day analysis - substituted in Ssa and Sa from Key West and deleted low amplitude constituents"
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 353.9,
+      "phase_local": 273.2,
+      "speed": 16.139101,
+      "comments": "HA - 365 day analysis - substituted in Ssa and Sa from Key West and deleted low amplitude constituents"
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 4.6,
+      "phase_local": 289.6,
+      "speed": 15.0,
+      "comments": "HA - 365 day analysis - substituted in Ssa and Sa from Key West and deleted low amplitude constituents"
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 355.7,
+      "phase_local": 283.2,
+      "speed": 14.496694,
+      "comments": "HA - 365 day analysis - substituted in Ssa and Sa from Key West and deleted low amplitude constituents"
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 29.1,
+      "phase_local": 311.2,
+      "speed": 15.5854435,
+      "comments": "HA - 365 day analysis - substituted in Ssa and Sa from Key West and deleted low amplitude constituents"
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.13,
+      "phase_GMT": 56.5,
+      "phase_local": 56.1,
+      "speed": 0.0821373,
+      "comments": "HA - 365 day analysis - substituted in Ssa and Sa from Key West and deleted low amplitude constituents"
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.26,
+      "phase_GMT": 187.8,
+      "phase_local": 187.6,
+      "speed": 0.0410686,
+      "comments": "HA - 365 day analysis - substituted in Ssa and Sa from Key West and deleted low amplitude constituents"
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 354.6,
+      "phase_local": 349.1,
+      "speed": 1.0980331,
+      "comments": "HA - 365 day analysis - substituted in Ssa and Sa from Key West and deleted low amplitude constituents"
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 338.2,
+      "phase_local": 270.8,
+      "speed": 13.471515,
+      "comments": "HA - 365 day analysis - substituted in Ssa and Sa from Key West and deleted low amplitude constituents"
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.09,
+      "phase_GMT": 345.5,
+      "phase_local": 278.5,
+      "speed": 13.398661,
+      "comments": "HA - 365 day analysis - substituted in Ssa and Sa from Key West and deleted low amplitude constituents"
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 86.0,
+      "phase_local": 296.2,
+      "speed": 29.958933,
+      "comments": "HA - 365 day analysis - substituted in Ssa and Sa from Key West and deleted low amplitude constituents"
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 334.9,
+      "phase_local": 270.6,
+      "speed": 12.854286,
+      "comments": "HA - 365 day analysis - substituted in Ssa and Sa from Key West and deleted low amplitude constituents"
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.11,
+      "phase_GMT": 356.2,
+      "phase_local": 281.4,
+      "speed": 14.958931,
+      "comments": "HA - 365 day analysis - substituted in Ssa and Sa from Key West and deleted low amplitude constituents"
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 99.1,
+      "phase_local": 311.5,
+      "speed": 29.528479,
+      "comments": "HA - 365 day analysis - substituted in Ssa and Sa from Key West and deleted low amplitude constituents"
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 86.9,
+      "phase_local": 296.5,
+      "speed": 30.082138,
+      "comments": "HA - 365 day analysis - substituted in Ssa and Sa from Key West and deleted low amplitude constituents"
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 233.7,
+      "phase_local": 298.8,
+      "speed": 58.984104,
+      "comments": "HA - 365 day analysis - substituted in Ssa and Sa from Key West and deleted low amplitude constituents"
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8724698/harcon.json"
+}

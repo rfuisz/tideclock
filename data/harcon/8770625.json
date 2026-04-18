@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 0.17,
+      "phase_GMT": 59.1,
+      "phase_local": 245.2,
+      "speed": 28.984104,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 45.8,
+      "phase_local": 225.8,
+      "speed": 30.0,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 32.8,
+      "phase_local": 222.2,
+      "speed": 28.43973,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.37,
+      "phase_GMT": 110.4,
+      "phase_local": 20.2,
+      "speed": 15.041069,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 338.2,
+      "phase_local": 350.4,
+      "speed": 57.96821,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.37,
+      "phase_GMT": 103.5,
+      "phase_local": 19.8,
+      "speed": 13.943035,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 237.9,
+      "phase_local": 76.2,
+      "speed": 86.95232,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 26.0,
+      "phase_local": 121.8,
+      "speed": 44.025173,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 60.0,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 316.9,
+      "phase_local": 332.4,
+      "speed": 57.423832,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 50.3,
+      "phase_local": 239.2,
+      "speed": 28.512583,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 90.0,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 257.3,
+      "phase_local": 89.5,
+      "speed": 27.968208,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 288.3,
+      "phase_local": 120.9,
+      "speed": 27.895355,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.05,
+      "phase_GMT": 119.3,
+      "phase_local": 22.5,
+      "speed": 16.139101,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 93.6,
+      "phase_local": 276.9,
+      "speed": 29.455626,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 277.7,
+      "phase_local": 187.7,
+      "speed": 15.0,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 227.5,
+      "phase_local": 140.5,
+      "speed": 14.496694,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 121.5,
+      "phase_local": 28.0,
+      "speed": 15.5854435,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 0.5443747,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.37,
+      "phase_GMT": 48.9,
+      "phase_local": 48.4,
+      "speed": 0.0821373,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.29,
+      "phase_GMT": 146.4,
+      "phase_local": 146.2,
+      "speed": 0.0410686,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0158958,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0980331,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 143.5,
+      "phase_local": 62.7,
+      "speed": 13.471515,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.08,
+      "phase_GMT": 71.5,
+      "phase_local": 351.1,
+      "speed": 13.398661,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 112.9,
+      "phase_local": 293.1,
+      "speed": 29.958933,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 90.6,
+      "phase_local": 270.4,
+      "speed": 30.041067,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 290.6,
+      "phase_local": 213.5,
+      "speed": 12.854286,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.09,
+      "phase_GMT": 113.0,
+      "phase_local": 23.2,
+      "speed": 14.958931,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 70.9,
+      "phase_local": 244.8,
+      "speed": 31.015896,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 238.7,
+      "phase_local": 337.8,
+      "speed": 43.47616,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 93.6,
+      "phase_local": 276.4,
+      "speed": 29.528479,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 42.92714,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 72.4,
+      "phase_local": 251.9,
+      "speed": 30.082138,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 115.93642,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 342.4,
+      "phase_local": 348.5,
+      "speed": 58.984104,
+      "comments": "280-day LSQHA:  September 01, 1995 - June 06, 1996.  Sa and Ssa from 8771013 (1994-2003)."
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8770625/harcon.json"
+}

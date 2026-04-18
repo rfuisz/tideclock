@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 2.44,
+      "phase_GMT": 216.5,
+      "phase_local": 344.6,
+      "speed": 28.984104,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.65,
+      "phase_GMT": 239.0,
+      "phase_local": 359.0,
+      "speed": 30.0,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.51,
+      "phase_GMT": 190.7,
+      "phase_local": 323.1,
+      "speed": 28.43973,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 1.4,
+      "phase_GMT": 230.9,
+      "phase_local": 110.5,
+      "speed": 15.041069,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 215.5,
+      "phase_local": 111.7,
+      "speed": 57.96821,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.86,
+      "phase_GMT": 214.6,
+      "phase_local": 103.1,
+      "speed": 13.943035,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 3.7,
+      "phase_local": 28.0,
+      "speed": 86.95232,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.0,
+      "phase_GMT": 253.8,
+      "phase_local": 261.6,
+      "speed": 44.025173,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 8.5,
+      "phase_local": 248.5,
+      "speed": 60.0,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 166.3,
+      "phase_local": 66.9,
+      "speed": 57.423832,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.1,
+      "phase_GMT": 196.0,
+      "phase_local": 327.9,
+      "speed": 28.512583,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 90.0,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 158.2,
+      "phase_local": 294.5,
+      "speed": 27.968208,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 165.9,
+      "phase_local": 302.7,
+      "speed": 27.895355,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.05,
+      "phase_GMT": 262.2,
+      "phase_local": 133.1,
+      "speed": 16.139101,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 244.3,
+      "phase_local": 8.6,
+      "speed": 29.455626,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 354.0,
+      "phase_local": 234.0,
+      "speed": 15.0,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 240.6,
+      "phase_local": 124.6,
+      "speed": 14.496694,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.09,
+      "phase_GMT": 242.8,
+      "phase_local": 118.1,
+      "speed": 15.5854435,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 0.5443747,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 0.0821373,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.29,
+      "phase_GMT": 274.0,
+      "phase_local": 273.7,
+      "speed": 0.0410686,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0158958,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0980331,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 200.8,
+      "phase_local": 93.1,
+      "speed": 13.471515,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.15,
+      "phase_GMT": 206.5,
+      "phase_local": 99.3,
+      "speed": 13.398661,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 231.5,
+      "phase_local": 351.9,
+      "speed": 29.958933,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 305.7,
+      "phase_local": 65.3,
+      "speed": 30.041067,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.02,
+      "phase_GMT": 201.9,
+      "phase_local": 99.1,
+      "speed": 12.854286,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.43,
+      "phase_GMT": 227.4,
+      "phase_local": 107.8,
+      "speed": 14.958931,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 31.015896,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 336.6,
+      "phase_local": 348.8,
+      "speed": 43.47616,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 240.6,
+      "phase_local": 4.3,
+      "speed": 29.528479,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 42.92714,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.17,
+      "phase_GMT": 232.7,
+      "phase_local": 352.0,
+      "speed": 30.082138,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 115.93642,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 294.1,
+      "phase_local": 182.2,
+      "speed": 58.984104,
+      "comments": "Vector Average of 4 years, 2014-2017.  Sa from average of 14 years (2003-2017)."
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/9431647/harcon.json"
+}

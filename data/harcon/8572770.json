@@ -1,0 +1,186 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 0.46,
+      "phase_GMT": 292.5,
+      "phase_local": 147.6,
+      "speed": 28.984104,
+      "comments": "average of 4 365-day LSQHA; 1980-83; averaged Sa, Ssa; deleted monthly constituents and other low amplitude constituents not contributing to variance"
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 323.7,
+      "phase_local": 173.7,
+      "speed": 30.0,
+      "comments": "average of 4 365-day LSQHA; 1980-83; averaged Sa, Ssa; deleted monthly constituents and other low amplitude constituents not contributing to variance"
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.1,
+      "phase_GMT": 269.4,
+      "phase_local": 127.2,
+      "speed": 28.43973,
+      "comments": "average of 4 365-day LSQHA; 1980-83; averaged Sa, Ssa; deleted monthly constituents and other low amplitude constituents not contributing to variance"
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.19,
+      "phase_GMT": 352.3,
+      "phase_local": 277.1,
+      "speed": 15.041069,
+      "comments": "average of 4 365-day LSQHA; 1980-83; averaged Sa, Ssa; deleted monthly constituents and other low amplitude constituents not contributing to variance"
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 33.6,
+      "phase_local": 103.7,
+      "speed": 57.96821,
+      "comments": "average of 4 365-day LSQHA; 1980-83; averaged Sa, Ssa; deleted monthly constituents and other low amplitude constituents not contributing to variance"
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.15,
+      "phase_GMT": 356.2,
+      "phase_local": 286.4,
+      "speed": 13.943035,
+      "comments": "average of 4 365-day LSQHA; 1980-83; averaged Sa, Ssa; deleted monthly constituents and other low amplitude constituents not contributing to variance"
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 127.5,
+      "phase_local": 52.7,
+      "speed": 86.95232,
+      "comments": "average of 4 365-day LSQHA; 1980-83; averaged Sa, Ssa; deleted monthly constituents and other low amplitude constituents not contributing to variance"
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 121.3,
+      "phase_local": 261.2,
+      "speed": 44.025173,
+      "comments": "average of 4 365-day LSQHA; 1980-83; averaged Sa, Ssa; deleted monthly constituents and other low amplitude constituents not contributing to variance"
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 269.7,
+      "phase_local": 127.1,
+      "speed": 28.512583,
+      "comments": "average of 4 365-day LSQHA; 1980-83; averaged Sa, Ssa; deleted monthly constituents and other low amplitude constituents not contributing to variance"
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 249.3,
+      "phase_local": 109.8,
+      "speed": 27.895355,
+      "comments": "average of 4 365-day LSQHA; 1980-83; averaged Sa, Ssa; deleted monthly constituents and other low amplitude constituents not contributing to variance"
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 311.2,
+      "phase_local": 164.0,
+      "speed": 29.455626,
+      "comments": "average of 4 365-day LSQHA; 1980-83; averaged Sa, Ssa; deleted monthly constituents and other low amplitude constituents not contributing to variance"
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 288.9,
+      "phase_local": 213.9,
+      "speed": 15.0,
+      "comments": "average of 4 365-day LSQHA; 1980-83; averaged Sa, Ssa; deleted monthly constituents and other low amplitude constituents not contributing to variance"
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.11,
+      "phase_GMT": 54.0,
+      "phase_local": 53.6,
+      "speed": 0.0821373,
+      "comments": "average of 4 365-day LSQHA; 1980-83; averaged Sa, Ssa; deleted monthly constituents and other low amplitude constituents not contributing to variance"
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.35,
+      "phase_GMT": 130.6,
+      "phase_local": 130.4,
+      "speed": 0.0410686,
+      "comments": "average of 4 365-day LSQHA; 1980-83; averaged Sa, Ssa; deleted monthly constituents and other low amplitude constituents not contributing to variance"
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 344.7,
+      "phase_local": 269.9,
+      "speed": 14.958931,
+      "comments": "average of 4 365-day LSQHA; 1980-83; averaged Sa, Ssa; deleted monthly constituents and other low amplitude constituents not contributing to variance"
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 322.8,
+      "phase_local": 175.2,
+      "speed": 29.528479,
+      "comments": "average of 4 365-day LSQHA; 1980-83; averaged Sa, Ssa; deleted monthly constituents and other low amplitude constituents not contributing to variance"
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 112.2,
+      "phase_local": 257.6,
+      "speed": 42.92714,
+      "comments": "average of 4 365-day LSQHA; 1980-83; averaged Sa, Ssa; deleted monthly constituents and other low amplitude constituents not contributing to variance"
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 318.4,
+      "phase_local": 168.0,
+      "speed": 30.082138,
+      "comments": "average of 4 365-day LSQHA; 1980-83; averaged Sa, Ssa; deleted monthly constituents and other low amplitude constituents not contributing to variance"
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8572770/harcon.json"
+}

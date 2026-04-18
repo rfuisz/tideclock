@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 1.52,
+      "phase_GMT": 221.4,
+      "phase_local": 76.5,
+      "speed": 28.984104,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.26,
+      "phase_GMT": 261.2,
+      "phase_local": 111.2,
+      "speed": 30.0,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.28,
+      "phase_GMT": 204.7,
+      "phase_local": 62.5,
+      "speed": 28.43973,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.17,
+      "phase_GMT": 290.9,
+      "phase_local": 215.7,
+      "speed": 15.041069,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 293.5,
+      "phase_local": 3.7,
+      "speed": 57.96821,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.12,
+      "phase_GMT": 320.3,
+      "phase_local": 250.6,
+      "speed": 13.943035,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 42.7,
+      "phase_local": 327.9,
+      "speed": 86.95232,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 44.025173,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 55.6,
+      "phase_local": 115.6,
+      "speed": 60.0,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 57.423832,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 207.0,
+      "phase_local": 64.4,
+      "speed": 28.512583,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 90.0,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 181.7,
+      "phase_local": 41.8,
+      "speed": 27.968208,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 188.0,
+      "phase_local": 48.6,
+      "speed": 27.895355,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 262.6,
+      "phase_local": 181.9,
+      "speed": 16.139101,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 239.8,
+      "phase_local": 92.6,
+      "speed": 29.455626,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 15.0,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 306.1,
+      "phase_local": 233.6,
+      "speed": 14.496694,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 277.4,
+      "phase_local": 199.4,
+      "speed": 15.5854435,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 0.5443747,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.16,
+      "phase_GMT": 57.0,
+      "phase_local": 56.6,
+      "speed": 0.0821373,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.4,
+      "phase_GMT": 130.8,
+      "phase_local": 130.6,
+      "speed": 0.0410686,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0158958,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0980331,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 336.5,
+      "phase_local": 269.2,
+      "speed": 13.471515,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 334.9,
+      "phase_local": 267.9,
+      "speed": 13.398661,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 259.7,
+      "phase_local": 109.9,
+      "speed": 29.958933,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 262.7,
+      "phase_local": 112.5,
+      "speed": 30.041067,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.0,
+      "phase_GMT": 346.4,
+      "phase_local": 282.1,
+      "speed": 12.854286,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 293.1,
+      "phase_local": 218.3,
+      "speed": 14.958931,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 31.015896,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 43.47616,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 238.2,
+      "phase_local": 90.5,
+      "speed": 29.528479,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 42.92714,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 264.5,
+      "phase_local": 114.1,
+      "speed": 30.082138,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 19.1,
+      "phase_local": 159.4,
+      "speed": 115.93642,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 58.984104,
+      "comments": "Vector Averaged of 4 months analyses (3-7/1989).  Sa and SSa from 8571421 Bishops Head, Hooper Strait."
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8571616/harcon.json"
+}

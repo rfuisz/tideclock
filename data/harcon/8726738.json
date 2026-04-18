@@ -1,0 +1,256 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 0.68,
+      "phase_GMT": 242.2,
+      "phase_local": 97.2,
+      "speed": 28.984104,
+      "comments": "average of 5 29-day anlayses; 1 -5/1991"
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.25,
+      "phase_GMT": 262.0,
+      "phase_local": 112.0,
+      "speed": 30.0,
+      "comments": "average of 5 29-day anlayses; 1 -5/1991"
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.12,
+      "phase_GMT": 237.9,
+      "phase_local": 95.7,
+      "speed": 28.43973,
+      "comments": "average of 5 29-day anlayses; 1 -5/1991"
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.65,
+      "phase_GMT": 68.7,
+      "phase_local": 353.5,
+      "speed": 15.041069,
+      "comments": "average of 5 29-day anlayses; 1 -5/1991"
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 17.0,
+      "phase_local": 87.1,
+      "speed": 57.96821,
+      "comments": "average of 5 29-day anlayses; 1 -5/1991"
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.53,
+      "phase_GMT": 57.9,
+      "phase_local": 348.2,
+      "speed": 13.943035,
+      "comments": "average of 5 29-day anlayses; 1 -5/1991"
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 69.4,
+      "phase_local": 354.7,
+      "speed": 86.95232,
+      "comments": "average of 5 29-day anlayses; 1 -5/1991"
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 137.3,
+      "phase_local": 197.3,
+      "speed": 60.0,
+      "comments": "average of 5 29-day anlayses; 1 -5/1991"
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 238.5,
+      "phase_local": 95.9,
+      "speed": 28.512583,
+      "comments": "average of 5 29-day anlayses; 1 -5/1991"
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 242.1,
+      "phase_local": 152.1,
+      "speed": 90.0,
+      "comments": "average of 5 29-day anlayses; 1 -5/1991"
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 58.5,
+      "phase_local": 278.6,
+      "speed": 27.968208,
+      "comments": "average of 5 29-day anlayses; 1 -5/1991"
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 233.5,
+      "phase_local": 94.1,
+      "speed": 27.895355,
+      "comments": "average of 5 29-day anlayses; 1 -5/1991"
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.02,
+      "phase_GMT": 78.8,
+      "phase_local": 358.1,
+      "speed": 16.139101,
+      "comments": "average of 5 29-day anlayses; 1 -5/1991"
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 250.8,
+      "phase_local": 103.5,
+      "speed": 29.455626,
+      "comments": "average of 5 29-day anlayses; 1 -5/1991"
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 63.2,
+      "phase_local": 350.7,
+      "speed": 14.496694,
+      "comments": "average of 5 29-day anlayses; 1 -5/1991"
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 73.5,
+      "phase_local": 355.6,
+      "speed": 15.5854435,
+      "comments": "average of 5 29-day anlayses; 1 -5/1991"
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 53.4,
+      "phase_local": 346.0,
+      "speed": 13.471515,
+      "comments": "average of 5 29-day anlayses; 1 -5/1991"
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.1,
+      "phase_GMT": 52.7,
+      "phase_local": 345.7,
+      "speed": 13.398661,
+      "comments": "average of 5 29-day anlayses; 1 -5/1991"
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 261.2,
+      "phase_local": 111.4,
+      "speed": 29.958933,
+      "comments": "average of 5 29-day anlayses; 1 -5/1991"
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 263.0,
+      "phase_local": 112.8,
+      "speed": 30.041067,
+      "comments": "average of 5 29-day anlayses; 1 -5/1991"
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 47.5,
+      "phase_local": 343.2,
+      "speed": 12.854286,
+      "comments": "average of 5 29-day anlayses; 1 -5/1991"
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.21,
+      "phase_GMT": 67.8,
+      "phase_local": 353.0,
+      "speed": 14.958931,
+      "comments": "average of 5 29-day anlayses; 1 -5/1991"
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 246.4,
+      "phase_local": 98.7,
+      "speed": 29.528479,
+      "comments": "average of 5 29-day anlayses; 1 -5/1991"
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 263.6,
+      "phase_local": 113.2,
+      "speed": 30.082138,
+      "comments": "average of 5 29-day anlayses; 1 -5/1991"
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 205.8,
+      "phase_local": 346.2,
+      "speed": 115.93642,
+      "comments": "average of 5 29-day anlayses; 1 -5/1991"
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8726738/harcon.json"
+}

@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 4.54,
+      "phase_GMT": 113.2,
+      "phase_local": 328.2,
+      "speed": 28.984104,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.66,
+      "phase_GMT": 153.9,
+      "phase_local": 3.9,
+      "speed": 30.0,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 1.03,
+      "phase_GMT": 87.0,
+      "phase_local": 304.8,
+      "speed": 28.43973,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.48,
+      "phase_GMT": 207.6,
+      "phase_local": 132.3,
+      "speed": 15.041069,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.08,
+      "phase_GMT": 49.0,
+      "phase_local": 119.2,
+      "speed": 57.96821,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.39,
+      "phase_GMT": 188.0,
+      "phase_local": 118.3,
+      "speed": 13.943035,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.14,
+      "phase_GMT": 296.3,
+      "phase_local": 221.5,
+      "speed": 86.95232,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 44.025173,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 159.3,
+      "phase_local": 219.3,
+      "speed": 60.0,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 57.423832,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.2,
+      "phase_GMT": 90.5,
+      "phase_local": 308.0,
+      "speed": 28.512583,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 90.0,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.11,
+      "phase_GMT": 290.4,
+      "phase_local": 150.6,
+      "speed": 27.968208,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.14,
+      "phase_GMT": 60.9,
+      "phase_local": 281.4,
+      "speed": 27.895355,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.02,
+      "phase_GMT": 227.0,
+      "phase_local": 146.3,
+      "speed": 16.139101,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 132.1,
+      "phase_local": 344.8,
+      "speed": 29.455626,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 15.0,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 197.9,
+      "phase_local": 125.4,
+      "speed": 14.496694,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 217.2,
+      "phase_local": 139.3,
+      "speed": 15.5854435,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 0.5443747,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 89.8,
+      "phase_local": 89.4,
+      "speed": 0.0821373,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.1,
+      "phase_GMT": 126.3,
+      "phase_local": 126.1,
+      "speed": 0.0410686,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0158958,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0980331,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 179.7,
+      "phase_local": 112.3,
+      "speed": 13.471515,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.08,
+      "phase_GMT": 178.4,
+      "phase_local": 111.4,
+      "speed": 13.398661,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 152.3,
+      "phase_local": 2.5,
+      "speed": 29.958933,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 155.6,
+      "phase_local": 5.4,
+      "speed": 30.041067,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 168.7,
+      "phase_local": 104.4,
+      "speed": 12.854286,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.16,
+      "phase_GMT": 206.1,
+      "phase_local": 131.3,
+      "speed": 14.958931,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 31.015896,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 43.47616,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.13,
+      "phase_GMT": 139.3,
+      "phase_local": 351.7,
+      "speed": 29.528479,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 42.92714,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.18,
+      "phase_GMT": 157.2,
+      "phase_local": 6.8,
+      "speed": 30.082138,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 238.3,
+      "phase_local": 18.6,
+      "speed": 115.93642,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 58.984104,
+      "comments": "Mean of 3 months (6-10/2003).  Sa and Ssa from 8443970."
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8444788/harcon.json"
+}

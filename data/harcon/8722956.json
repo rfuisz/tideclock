@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 1.23,
+      "phase_GMT": 20.4,
+      "phase_local": 235.5,
+      "speed": 28.984104,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.22,
+      "phase_GMT": 45.8,
+      "phase_local": 255.8,
+      "speed": 30.0,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.29,
+      "phase_GMT": 0.3,
+      "phase_local": 218.1,
+      "speed": 28.43973,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.14,
+      "phase_GMT": 231.3,
+      "phase_local": 156.1,
+      "speed": 15.041069,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 160.1,
+      "phase_local": 230.3,
+      "speed": 57.96821,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.12,
+      "phase_GMT": 256.2,
+      "phase_local": 186.5,
+      "speed": 13.943035,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 219.4,
+      "phase_local": 144.7,
+      "speed": 86.95232,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.0,
+      "phase_GMT": 192.3,
+      "phase_local": 332.2,
+      "speed": 44.025173,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 268.3,
+      "phase_local": 328.3,
+      "speed": 60.0,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 161.5,
+      "phase_local": 234.4,
+      "speed": 57.423832,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 358.7,
+      "phase_local": 216.2,
+      "speed": 28.512583,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 90.0,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 359.8,
+      "phase_local": 220.0,
+      "speed": 27.968208,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 344.8,
+      "phase_local": 205.4,
+      "speed": 27.895355,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 215.6,
+      "phase_local": 134.9,
+      "speed": 16.139101,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 44.7,
+      "phase_local": 257.4,
+      "speed": 29.455626,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 253.2,
+      "phase_local": 178.2,
+      "speed": 15.0,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 261.3,
+      "phase_local": 188.8,
+      "speed": 14.496694,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 223.5,
+      "phase_local": 145.6,
+      "speed": 15.5854435,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 0.5443747,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.2,
+      "phase_GMT": 59.5,
+      "phase_local": 59.1,
+      "speed": 0.0821373,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.34,
+      "phase_GMT": 208.5,
+      "phase_local": 208.3,
+      "speed": 0.0410686,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0158958,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0980331,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 248.3,
+      "phase_local": 180.9,
+      "speed": 13.471515,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 256.0,
+      "phase_local": 189.0,
+      "speed": 13.398661,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 27.9,
+      "phase_local": 238.1,
+      "speed": 29.958933,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 246.2,
+      "phase_local": 96.0,
+      "speed": 30.041067,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.0,
+      "phase_GMT": 246.9,
+      "phase_local": 182.7,
+      "speed": 12.854286,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 235.0,
+      "phase_local": 160.2,
+      "speed": 14.958931,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 40.4,
+      "phase_local": 245.4,
+      "speed": 31.015896,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 47.9,
+      "phase_local": 190.5,
+      "speed": 43.47616,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 29.7,
+      "phase_local": 242.1,
+      "speed": 29.528479,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 124.7,
+      "phase_local": 270.1,
+      "speed": 42.92714,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 46.8,
+      "phase_local": 256.3,
+      "speed": 30.082138,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 191.4,
+      "phase_local": 331.7,
+      "speed": 115.93642,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 163.3,
+      "phase_local": 228.4,
+      "speed": 58.984104,
+      "comments": "Vector Average of 5 years 2018-2022.     MM, MSF, MF unstable and not used."
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8722956/harcon.json"
+}

@@ -1,0 +1,256 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 0.47,
+      "phase_GMT": 223.6,
+      "phase_local": 78.7,
+      "speed": 28.984104,
+      "comments": "average of two HA-365 LSQHA analyses 11/1/97 - 10/31/98 and 4/1/99 - 3/31/2000; used accepted values for Ssa and Sa from Solomons Island, MD"
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 250.3,
+      "phase_local": 100.3,
+      "speed": 30.0,
+      "comments": "average of two HA-365 LSQHA analyses 11/1/97 - 10/31/98 and 4/1/99 - 3/31/2000; used accepted values for Ssa and Sa from Solomons Island, MD"
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.09,
+      "phase_GMT": 194.9,
+      "phase_local": 52.7,
+      "speed": 28.43973,
+      "comments": "average of two HA-365 LSQHA analyses 11/1/97 - 10/31/98 and 4/1/99 - 3/31/2000; used accepted values for Ssa and Sa from Solomons Island, MD"
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.11,
+      "phase_GMT": 339.3,
+      "phase_local": 264.1,
+      "speed": 15.041069,
+      "comments": "average of two HA-365 LSQHA analyses 11/1/97 - 10/31/98 and 4/1/99 - 3/31/2000; used accepted values for Ssa and Sa from Solomons Island, MD"
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 286.4,
+      "phase_local": 356.6,
+      "speed": 57.96821,
+      "comments": "average of two HA-365 LSQHA analyses 11/1/97 - 10/31/98 and 4/1/99 - 3/31/2000; used accepted values for Ssa and Sa from Solomons Island, MD"
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.1,
+      "phase_GMT": 351.4,
+      "phase_local": 281.7,
+      "speed": 13.943035,
+      "comments": "average of two HA-365 LSQHA analyses 11/1/97 - 10/31/98 and 4/1/99 - 3/31/2000; used accepted values for Ssa and Sa from Solomons Island, MD"
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 336.5,
+      "phase_local": 261.8,
+      "speed": 86.95232,
+      "comments": "average of two HA-365 LSQHA analyses 11/1/97 - 10/31/98 and 4/1/99 - 3/31/2000; used accepted values for Ssa and Sa from Solomons Island, MD"
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 0.4,
+      "phase_local": 140.3,
+      "speed": 44.025173,
+      "comments": "average of two HA-365 LSQHA analyses 11/1/97 - 10/31/98 and 4/1/99 - 3/31/2000; used accepted values for Ssa and Sa from Solomons Island, MD"
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 202.9,
+      "phase_local": 60.3,
+      "speed": 28.512583,
+      "comments": "average of two HA-365 LSQHA analyses 11/1/97 - 10/31/98 and 4/1/99 - 3/31/2000; used accepted values for Ssa and Sa from Solomons Island, MD"
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 18.3,
+      "phase_local": 238.5,
+      "speed": 27.968208,
+      "comments": "average of two HA-365 LSQHA analyses 11/1/97 - 10/31/98 and 4/1/99 - 3/31/2000; used accepted values for Ssa and Sa from Solomons Island, MD"
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 169.6,
+      "phase_local": 30.1,
+      "speed": 27.895355,
+      "comments": "average of two HA-365 LSQHA analyses 11/1/97 - 10/31/98 and 4/1/99 - 3/31/2000; used accepted values for Ssa and Sa from Solomons Island, MD"
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 258.4,
+      "phase_local": 111.2,
+      "speed": 29.455626,
+      "comments": "average of two HA-365 LSQHA analyses 11/1/97 - 10/31/98 and 4/1/99 - 3/31/2000; used accepted values for Ssa and Sa from Solomons Island, MD"
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 303.5,
+      "phase_local": 228.5,
+      "speed": 15.0,
+      "comments": "average of two HA-365 LSQHA analyses 11/1/97 - 10/31/98 and 4/1/99 - 3/31/2000; used accepted values for Ssa and Sa from Solomons Island, MD"
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 265.0,
+      "phase_local": 192.5,
+      "speed": 14.496694,
+      "comments": "average of two HA-365 LSQHA analyses 11/1/97 - 10/31/98 and 4/1/99 - 3/31/2000; used accepted values for Ssa and Sa from Solomons Island, MD"
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 310.8,
+      "phase_local": 232.8,
+      "speed": 15.5854435,
+      "comments": "average of two HA-365 LSQHA analyses 11/1/97 - 10/31/98 and 4/1/99 - 3/31/2000; used accepted values for Ssa and Sa from Solomons Island, MD"
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.11,
+      "phase_GMT": 36.1,
+      "phase_local": 35.7,
+      "speed": 0.0821373,
+      "comments": "average of two HA-365 LSQHA analyses 11/1/97 - 10/31/98 and 4/1/99 - 3/31/2000; used accepted values for Ssa and Sa from Solomons Island, MD"
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.29,
+      "phase_GMT": 131.4,
+      "phase_local": 131.2,
+      "speed": 0.0410686,
+      "comments": "average of two HA-365 LSQHA analyses 11/1/97 - 10/31/98 and 4/1/99 - 3/31/2000; used accepted values for Ssa and Sa from Solomons Island, MD"
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 305.3,
+      "phase_local": 238.0,
+      "speed": 13.471515,
+      "comments": "average of two HA-365 LSQHA analyses 11/1/97 - 10/31/98 and 4/1/99 - 3/31/2000; used accepted values for Ssa and Sa from Solomons Island, MD"
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 305.3,
+      "phase_local": 238.3,
+      "speed": 13.398661,
+      "comments": "average of two HA-365 LSQHA analyses 11/1/97 - 10/31/98 and 4/1/99 - 3/31/2000; used accepted values for Ssa and Sa from Solomons Island, MD"
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 251.5,
+      "phase_local": 101.7,
+      "speed": 29.958933,
+      "comments": "average of two HA-365 LSQHA analyses 11/1/97 - 10/31/98 and 4/1/99 - 3/31/2000; used accepted values for Ssa and Sa from Solomons Island, MD"
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.0,
+      "phase_GMT": 158.1,
+      "phase_local": 93.9,
+      "speed": 12.854286,
+      "comments": "average of two HA-365 LSQHA analyses 11/1/97 - 10/31/98 and 4/1/99 - 3/31/2000; used accepted values for Ssa and Sa from Solomons Island, MD"
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 325.4,
+      "phase_local": 250.6,
+      "speed": 14.958931,
+      "comments": "average of two HA-365 LSQHA analyses 11/1/97 - 10/31/98 and 4/1/99 - 3/31/2000; used accepted values for Ssa and Sa from Solomons Island, MD"
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 255.7,
+      "phase_local": 108.1,
+      "speed": 29.528479,
+      "comments": "average of two HA-365 LSQHA analyses 11/1/97 - 10/31/98 and 4/1/99 - 3/31/2000; used accepted values for Ssa and Sa from Solomons Island, MD"
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 345.5,
+      "phase_local": 130.9,
+      "speed": 42.92714,
+      "comments": "average of two HA-365 LSQHA analyses 11/1/97 - 10/31/98 and 4/1/99 - 3/31/2000; used accepted values for Ssa and Sa from Solomons Island, MD"
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 257.5,
+      "phase_local": 107.1,
+      "speed": 30.082138,
+      "comments": "average of two HA-365 LSQHA analyses 11/1/97 - 10/31/98 and 4/1/99 - 3/31/2000; used accepted values for Ssa and Sa from Solomons Island, MD"
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8577004/harcon.json"
+}

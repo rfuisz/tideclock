@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 1.77,
+      "phase_GMT": 45.6,
+      "phase_local": 260.7,
+      "speed": 28.984104,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.24,
+      "phase_GMT": 72.4,
+      "phase_local": 282.4,
+      "speed": 30.0,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.36,
+      "phase_GMT": 32.2,
+      "phase_local": 250.0,
+      "speed": 28.43973,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.21,
+      "phase_GMT": 225.2,
+      "phase_local": 150.0,
+      "speed": 15.041069,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 19.3,
+      "phase_local": 89.5,
+      "speed": 57.96821,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.15,
+      "phase_GMT": 219.3,
+      "phase_local": 149.6,
+      "speed": 13.943035,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 270.5,
+      "phase_local": 195.7,
+      "speed": 86.95232,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 44.025173,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 347.3,
+      "phase_local": 47.3,
+      "speed": 60.0,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 57.423832,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 34.0,
+      "phase_local": 251.4,
+      "speed": 28.512583,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 68.7,
+      "phase_local": 338.7,
+      "speed": 90.0,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 18.9,
+      "phase_local": 239.1,
+      "speed": 27.968208,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 18.7,
+      "phase_local": 239.2,
+      "speed": 27.895355,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 230.6,
+      "phase_local": 149.9,
+      "speed": 16.139101,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 58.0,
+      "phase_local": 270.7,
+      "speed": 29.455626,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 15.0,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 222.4,
+      "phase_local": 149.9,
+      "speed": 14.496694,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 229.3,
+      "phase_local": 151.4,
+      "speed": 15.5854435,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.08,
+      "phase_GMT": 227.6,
+      "phase_local": 224.9,
+      "speed": 0.5443747,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.25,
+      "phase_GMT": 54.9,
+      "phase_local": 54.5,
+      "speed": 0.0821373,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.38,
+      "phase_GMT": 189.9,
+      "phase_local": 189.7,
+      "speed": 0.0410686,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.13,
+      "phase_GMT": 197.6,
+      "phase_local": 192.5,
+      "speed": 1.0158958,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0980331,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 216.5,
+      "phase_local": 149.1,
+      "speed": 13.471515,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 216.0,
+      "phase_local": 149.0,
+      "speed": 13.398661,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 71.2,
+      "phase_local": 281.4,
+      "speed": 29.958933,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 73.4,
+      "phase_local": 283.2,
+      "speed": 30.041067,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.0,
+      "phase_GMT": 214.1,
+      "phase_local": 149.8,
+      "speed": 12.854286,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 224.8,
+      "phase_local": 150.0,
+      "speed": 14.958931,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 31.015896,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 43.47616,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 59.1,
+      "phase_local": 271.5,
+      "speed": 29.528479,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 42.92714,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 74.6,
+      "phase_local": 284.2,
+      "speed": 30.082138,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 301.9,
+      "phase_local": 82.2,
+      "speed": 115.93642,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 58.984104,
+      "comments": "Average of 5 HA29 sets - 8/23-9/20/1977, 9/23-10/21/1977, 10/23-11/20/1977, 11/23-12/21/1977, 12/12/77-1/09/1978,   Mm, Ssa, Sa, Msf from 8720220."
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8720198/harcon.json"
+}

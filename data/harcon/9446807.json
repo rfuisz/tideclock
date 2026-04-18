@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 4.79,
+      "phase_GMT": 30.3,
+      "phase_local": 158.4,
+      "speed": 28.984104,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 1.13,
+      "phase_GMT": 62.0,
+      "phase_local": 182.0,
+      "speed": 30.0,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.91,
+      "phase_GMT": 4.5,
+      "phase_local": 137.0,
+      "speed": 28.43973,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 2.88,
+      "phase_GMT": 289.6,
+      "phase_local": 169.3,
+      "speed": 15.041069,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.16,
+      "phase_GMT": 294.4,
+      "phase_local": 190.7,
+      "speed": 57.96821,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 1.55,
+      "phase_GMT": 266.4,
+      "phase_local": 154.9,
+      "speed": 13.943035,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.1,
+      "phase_GMT": 143.8,
+      "phase_local": 168.2,
+      "speed": 86.95232,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.1,
+      "phase_GMT": 145.8,
+      "phase_local": 153.6,
+      "speed": 44.025173,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 334.8,
+      "phase_local": 214.8,
+      "speed": 60.0,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 265.4,
+      "phase_local": 166.0,
+      "speed": 57.423832,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.21,
+      "phase_GMT": 10.6,
+      "phase_local": 142.5,
+      "speed": 28.512583,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 90.0,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.08,
+      "phase_GMT": 193.0,
+      "phase_local": 329.3,
+      "speed": 27.968208,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.11,
+      "phase_GMT": 345.2,
+      "phase_local": 122.0,
+      "speed": 27.895355,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.09,
+      "phase_GMT": 5.6,
+      "phase_local": 236.5,
+      "speed": 16.139101,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.09,
+      "phase_GMT": 46.8,
+      "phase_local": 171.2,
+      "speed": 29.455626,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 63.5,
+      "phase_local": 303.5,
+      "speed": 15.0,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 309.0,
+      "phase_local": 193.0,
+      "speed": 14.496694,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.17,
+      "phase_GMT": 331.4,
+      "phase_local": 206.7,
+      "speed": 15.5854435,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 0.5443747,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.11,
+      "phase_GMT": 231.1,
+      "phase_local": 230.4,
+      "speed": 0.0821373,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.25,
+      "phase_GMT": 292.9,
+      "phase_local": 292.6,
+      "speed": 0.0410686,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0158958,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 140.5,
+      "phase_local": 131.7,
+      "speed": 1.0980331,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.08,
+      "phase_GMT": 269.8,
+      "phase_local": 162.0,
+      "speed": 13.471515,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.23,
+      "phase_GMT": 264.7,
+      "phase_local": 157.5,
+      "speed": 13.398661,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 69.9,
+      "phase_local": 190.2,
+      "speed": 29.958933,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 118.3,
+      "phase_local": 238.0,
+      "speed": 30.041067,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.03,
+      "phase_GMT": 238.2,
+      "phase_local": 135.4,
+      "speed": 12.854286,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.88,
+      "phase_GMT": 285.3,
+      "phase_local": 165.6,
+      "speed": 14.958931,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 273.4,
+      "phase_local": 25.3,
+      "speed": 31.015896,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 254.8,
+      "phase_local": 267.0,
+      "speed": 43.47616,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.22,
+      "phase_GMT": 64.4,
+      "phase_local": 188.2,
+      "speed": 29.528479,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 267.3,
+      "phase_local": 283.9,
+      "speed": 42.92714,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.32,
+      "phase_GMT": 58.8,
+      "phase_local": 178.1,
+      "speed": 30.082138,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 18.8,
+      "phase_local": 171.3,
+      "speed": 115.93642,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.1,
+      "phase_GMT": 313.7,
+      "phase_local": 201.8,
+      "speed": 58.984104,
+      "comments": "214 Day LSQHA (1 May - 30 Nov, 1996).  Sa, Ssa, and Mf from 9447130 Seattle."
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/9446807/harcon.json"
+}

@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 0.5,
+      "phase_GMT": 336.3,
+      "phase_local": 191.4,
+      "speed": 28.984104,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.08,
+      "phase_GMT": 8.3,
+      "phase_local": 218.3,
+      "speed": 30.0,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.11,
+      "phase_GMT": 313.1,
+      "phase_local": 170.9,
+      "speed": 28.43973,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.21,
+      "phase_GMT": 7.0,
+      "phase_local": 291.8,
+      "speed": 15.041069,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 243.7,
+      "phase_local": 313.8,
+      "speed": 57.96821,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.18,
+      "phase_GMT": 14.0,
+      "phase_local": 304.3,
+      "speed": 13.943035,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 356.4,
+      "phase_local": 281.6,
+      "speed": 86.95232,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.02,
+      "phase_GMT": 180.2,
+      "phase_local": 320.0,
+      "speed": 44.025173,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 39.5,
+      "phase_local": 99.5,
+      "speed": 60.0,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 212.6,
+      "phase_local": 285.5,
+      "speed": 57.423832,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 311.4,
+      "phase_local": 168.8,
+      "speed": 28.512583,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 130.4,
+      "phase_local": 40.4,
+      "speed": 90.0,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 310.3,
+      "phase_local": 170.5,
+      "speed": 27.968208,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 294.9,
+      "phase_local": 155.4,
+      "speed": 27.895355,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 26.3,
+      "phase_local": 305.6,
+      "speed": 16.139101,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 12.9,
+      "phase_local": 225.6,
+      "speed": 29.455626,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 291.6,
+      "phase_local": 216.6,
+      "speed": 15.0,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 67.7,
+      "phase_local": 355.3,
+      "speed": 14.496694,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 341.2,
+      "phase_local": 263.2,
+      "speed": 15.5854435,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 0.5443747,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.13,
+      "phase_GMT": 49.5,
+      "phase_local": 49.1,
+      "speed": 0.0821373,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.44,
+      "phase_GMT": 132.6,
+      "phase_local": 132.4,
+      "speed": 0.0410686,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0158958,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0980331,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 339.1,
+      "phase_local": 271.8,
+      "speed": 13.471515,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 358.5,
+      "phase_local": 291.5,
+      "speed": 13.398661,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 333.3,
+      "phase_local": 183.5,
+      "speed": 29.958933,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 90.0,
+      "phase_local": 299.7,
+      "speed": 30.041067,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 277.2,
+      "phase_local": 212.9,
+      "speed": 12.854286,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 2.2,
+      "phase_local": 287.4,
+      "speed": 14.958931,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 31.015896,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 101.5,
+      "phase_local": 244.2,
+      "speed": 43.47616,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 357.6,
+      "phase_local": 209.9,
+      "speed": 29.528479,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 160.1,
+      "phase_local": 305.5,
+      "speed": 42.92714,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 8.9,
+      "phase_local": 218.5,
+      "speed": 30.082138,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 197.5,
+      "phase_local": 337.8,
+      "speed": 115.93642,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 277.0,
+      "phase_local": 342.1,
+      "speed": 58.984104,
+      "comments": "Vector Average of 5 years (2017-2021).  Sa and SSa from average of 19 years (2001-2021). Other long period constituents are not stable."
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8574680/harcon.json"
+}

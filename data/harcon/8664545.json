@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 2.77,
+      "phase_GMT": 27.5,
+      "phase_local": 242.6,
+      "speed": 28.984104,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.4,
+      "phase_GMT": 67.0,
+      "phase_local": 277.0,
+      "speed": 30.0,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.6,
+      "phase_GMT": 19.7,
+      "phase_local": 237.5,
+      "speed": 28.43973,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.37,
+      "phase_GMT": 213.8,
+      "phase_local": 138.6,
+      "speed": 15.041069,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.28,
+      "phase_GMT": 225.3,
+      "phase_local": 295.5,
+      "speed": 57.96821,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.29,
+      "phase_GMT": 217.1,
+      "phase_local": 147.4,
+      "speed": 13.943035,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 138.8,
+      "phase_local": 64.0,
+      "speed": 86.95232,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.08,
+      "phase_GMT": 21.4,
+      "phase_local": 161.3,
+      "speed": 44.025173,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 37.1,
+      "phase_local": 97.1,
+      "speed": 60.0,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.12,
+      "phase_GMT": 219.2,
+      "phase_local": 292.1,
+      "speed": 57.423832,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.1,
+      "phase_GMT": 5.3,
+      "phase_local": 222.7,
+      "speed": 28.512583,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 12.9,
+      "phase_local": 282.9,
+      "speed": 90.0,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.14,
+      "phase_GMT": 83.8,
+      "phase_local": 304.0,
+      "speed": 27.968208,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.09,
+      "phase_GMT": 27.6,
+      "phase_local": 248.1,
+      "speed": 27.895355,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.04,
+      "phase_GMT": 212.1,
+      "phase_local": 131.4,
+      "speed": 16.139101,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 341.8,
+      "phase_local": 194.5,
+      "speed": 29.455626,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 152.9,
+      "phase_local": 77.9,
+      "speed": 15.0,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 270.4,
+      "phase_local": 197.9,
+      "speed": 14.496694,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 264.5,
+      "phase_local": 186.6,
+      "speed": 15.5854435,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 0.5443747,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.17,
+      "phase_GMT": 50.5,
+      "phase_local": 50.1,
+      "speed": 0.0821373,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.26,
+      "phase_GMT": 176.3,
+      "phase_local": 176.1,
+      "speed": 0.0410686,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0158958,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0980331,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 23.5,
+      "phase_local": 316.1,
+      "speed": 13.471515,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 200.0,
+      "phase_local": 133.0,
+      "speed": 13.398661,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 64.0,
+      "phase_local": 274.2,
+      "speed": 29.958933,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 306.8,
+      "phase_local": 156.6,
+      "speed": 30.041067,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 257.4,
+      "phase_local": 193.1,
+      "speed": 12.854286,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.13,
+      "phase_GMT": 205.7,
+      "phase_local": 130.9,
+      "speed": 14.958931,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 230.5,
+      "phase_local": 75.4,
+      "speed": 31.015896,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.09,
+      "phase_GMT": 136.3,
+      "phase_local": 278.9,
+      "speed": 43.47616,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.25,
+      "phase_GMT": 9.1,
+      "phase_local": 221.5,
+      "speed": 29.528479,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.08,
+      "phase_GMT": 11.0,
+      "phase_local": 156.4,
+      "speed": 42.92714,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.09,
+      "phase_GMT": 50.6,
+      "phase_local": 260.2,
+      "speed": 30.082138,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 308.0,
+      "phase_local": 88.3,
+      "speed": 115.93642,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.09,
+      "phase_GMT": 265.5,
+      "phase_local": 330.6,
+      "speed": 58.984104,
+      "comments": "365-day lsqha analysis:  eleven months (05/01/1997 - 03/31/1998).  Sa and Ssa from Charleston 8665530 (1980-2000)."
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8664545/harcon.json"
+}

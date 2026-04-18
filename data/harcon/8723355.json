@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 0.73,
+      "phase_GMT": 65.1,
+      "phase_local": 280.2,
+      "speed": 28.984104,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.12,
+      "phase_GMT": 93.4,
+      "phase_local": 303.4,
+      "speed": 30.0,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.14,
+      "phase_GMT": 48.0,
+      "phase_local": 265.8,
+      "speed": 28.43973,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.1,
+      "phase_GMT": 285.7,
+      "phase_local": 210.5,
+      "speed": 15.041069,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 60.3,
+      "phase_local": 130.5,
+      "speed": 57.96821,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.08,
+      "phase_GMT": 301.6,
+      "phase_local": 231.9,
+      "speed": 13.943035,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 219.9,
+      "phase_local": 145.1,
+      "speed": 86.95232,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 44.025173,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.6,
+      "phase_local": 60.6,
+      "speed": 60.0,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 57.423832,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 50.3,
+      "phase_local": 267.7,
+      "speed": 28.512583,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 90.0,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 36.8,
+      "phase_local": 257.0,
+      "speed": 27.968208,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 31.1,
+      "phase_local": 251.6,
+      "speed": 27.895355,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.0,
+      "phase_GMT": 269.5,
+      "phase_local": 188.8,
+      "speed": 16.139101,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 78.1,
+      "phase_local": 290.8,
+      "speed": 29.455626,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 15.0,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 293.5,
+      "phase_local": 221.0,
+      "speed": 14.496694,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 277.7,
+      "phase_local": 199.8,
+      "speed": 15.5854435,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 0.5443747,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.18,
+      "phase_GMT": 58.3,
+      "phase_local": 57.9,
+      "speed": 0.0821373,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.27,
+      "phase_GMT": 190.6,
+      "phase_local": 190.4,
+      "speed": 0.0410686,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0158958,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0980331,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 308.5,
+      "phase_local": 241.1,
+      "speed": 13.471515,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 309.4,
+      "phase_local": 242.4,
+      "speed": 13.398661,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 92.1,
+      "phase_local": 302.3,
+      "speed": 29.958933,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 30.041067,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.0,
+      "phase_GMT": 317.5,
+      "phase_local": 253.2,
+      "speed": 12.854286,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 286.9,
+      "phase_local": 212.1,
+      "speed": 14.958931,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 31.015896,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 43.47616,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 82.1,
+      "phase_local": 294.5,
+      "speed": 29.528479,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 42.92714,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 95.5,
+      "phase_local": 305.1,
+      "speed": 30.082138,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 161.0,
+      "phase_local": 301.3,
+      "speed": 115.93642,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 58.984104,
+      "comments": "Average of 3 HARM29 analysis - (July 9-Aug 6, Aug 7-Sept. 4, Sept 5-Oct. 3,1987).  SA and SSA from 8723214 - Virginia Key"
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8723355/harcon.json"
+}

@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 0.66,
+      "phase_GMT": 96.7,
+      "phase_local": 311.8,
+      "speed": 28.984104,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.1,
+      "phase_GMT": 139.5,
+      "phase_local": 349.5,
+      "speed": 30.0,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.14,
+      "phase_GMT": 82.7,
+      "phase_local": 300.5,
+      "speed": 28.43973,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.08,
+      "phase_GMT": 304.6,
+      "phase_local": 229.4,
+      "speed": 15.041069,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 133.3,
+      "phase_local": 203.5,
+      "speed": 57.96821,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 317.7,
+      "phase_local": 248.0,
+      "speed": 13.943035,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 306.8,
+      "phase_local": 232.0,
+      "speed": 86.95232,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 44.025173,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 160.5,
+      "phase_local": 220.5,
+      "speed": 60.0,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 57.423832,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 84.6,
+      "phase_local": 302.0,
+      "speed": 28.512583,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 265.0,
+      "phase_local": 175.0,
+      "speed": 90.0,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 53.9,
+      "phase_local": 274.1,
+      "speed": 27.968208,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 68.6,
+      "phase_local": 289.1,
+      "speed": 27.895355,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.0,
+      "phase_GMT": 291.5,
+      "phase_local": 210.8,
+      "speed": 16.139101,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 116.6,
+      "phase_local": 329.3,
+      "speed": 29.455626,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 15.0,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 311.1,
+      "phase_local": 238.6,
+      "speed": 14.496694,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 298.1,
+      "phase_local": 220.2,
+      "speed": 15.5854435,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 0.5443747,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.18,
+      "phase_GMT": 58.3,
+      "phase_local": 57.9,
+      "speed": 0.0821373,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.27,
+      "phase_GMT": 190.6,
+      "phase_local": 190.4,
+      "speed": 0.0410686,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0158958,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0980331,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 323.3,
+      "phase_local": 255.9,
+      "speed": 13.471515,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 324.2,
+      "phase_local": 257.2,
+      "speed": 13.398661,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 137.8,
+      "phase_local": 348.0,
+      "speed": 29.958933,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 30.041067,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.0,
+      "phase_GMT": 330.7,
+      "phase_local": 266.4,
+      "speed": 12.854286,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 305.6,
+      "phase_local": 230.8,
+      "speed": 14.958931,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 31.015896,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 43.47616,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 110.8,
+      "phase_local": 323.2,
+      "speed": 29.528479,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 42.92714,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 143.0,
+      "phase_local": 352.6,
+      "speed": 30.082138,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 352.7,
+      "phase_local": 133.0,
+      "speed": 115.93642,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 58.984104,
+      "comments": "29-Day Analysis (1-29 Jul, 1974).  SA and SSA from 8723214 - Virginia Key"
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8723409/harcon.json"
+}

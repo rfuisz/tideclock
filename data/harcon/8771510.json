@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 0.46,
+      "phase_GMT": 276.1,
+      "phase_local": 102.2,
+      "speed": 28.984104,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.11,
+      "phase_GMT": 267.9,
+      "phase_local": 87.9,
+      "speed": 30.0,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.12,
+      "phase_GMT": 254.6,
+      "phase_local": 84.0,
+      "speed": 28.43973,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.56,
+      "phase_GMT": 28.0,
+      "phase_local": 297.8,
+      "speed": 15.041069,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 203.3,
+      "phase_local": 215.5,
+      "speed": 57.96821,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.53,
+      "phase_GMT": 20.3,
+      "phase_local": 296.6,
+      "speed": 13.943035,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 86.95232,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 44.025173,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 60.0,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 57.423832,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 270.9,
+      "phase_local": 99.8,
+      "speed": 28.512583,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 90.0,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 197.1,
+      "phase_local": 29.3,
+      "speed": 27.968208,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 228.8,
+      "phase_local": 61.4,
+      "speed": 27.895355,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.02,
+      "phase_GMT": 46.2,
+      "phase_local": 309.4,
+      "speed": 16.139101,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 272.2,
+      "phase_local": 95.5,
+      "speed": 29.455626,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 327.0,
+      "phase_local": 237.0,
+      "speed": 15.0,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 24.2,
+      "phase_local": 297.2,
+      "speed": 14.496694,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 34.5,
+      "phase_local": 301.0,
+      "speed": 15.5854435,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 0.5443747,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.3,
+      "phase_GMT": 55.2,
+      "phase_local": 54.7,
+      "speed": 0.0821373,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.25,
+      "phase_GMT": 157.4,
+      "phase_local": 157.2,
+      "speed": 0.0410686,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0158958,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0980331,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 4.0,
+      "phase_local": 283.2,
+      "speed": 13.471515,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.12,
+      "phase_GMT": 7.0,
+      "phase_local": 286.6,
+      "speed": 13.398661,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 268.1,
+      "phase_local": 88.3,
+      "speed": 29.958933,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 30.041067,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 349.5,
+      "phase_local": 272.4,
+      "speed": 12.854286,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.17,
+      "phase_GMT": 24.3,
+      "phase_local": 294.5,
+      "speed": 14.958931,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 31.015896,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 43.47616,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 352.1,
+      "phase_local": 174.9,
+      "speed": 29.528479,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 42.92714,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 275.6,
+      "phase_local": 95.1,
+      "speed": 30.082138,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 115.93642,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 224.7,
+      "phase_local": 230.8,
+      "speed": 58.984104,
+      "comments": "Mean of 5 one year analyses (1999-2003).  Sa and Ssa from mean of 23 one year analyses (1980-2003)."
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8771510/harcon.json"
+}

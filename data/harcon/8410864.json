@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 7.88,
+      "phase_GMT": 135.5,
+      "phase_local": 350.6,
+      "speed": 28.984104,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 1.13,
+      "phase_GMT": 185.6,
+      "phase_local": 35.6,
+      "speed": 30.0,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 1.57,
+      "phase_GMT": 110.5,
+      "phase_local": 328.3,
+      "speed": 28.43973,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.45,
+      "phase_GMT": 226.1,
+      "phase_local": 150.9,
+      "speed": 15.041069,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.44,
+      "phase_GMT": 182.1,
+      "phase_local": 252.3,
+      "speed": 57.96821,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.35,
+      "phase_GMT": 204.8,
+      "phase_local": 135.1,
+      "speed": 13.943035,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.46,
+      "phase_GMT": 24.4,
+      "phase_local": 309.6,
+      "speed": 86.95232,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.04,
+      "phase_GMT": 244.7,
+      "phase_local": 24.6,
+      "speed": 44.025173,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 284.2,
+      "phase_local": 344.2,
+      "speed": 60.0,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.19,
+      "phase_GMT": 156.2,
+      "phase_local": 229.1,
+      "speed": 57.423832,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.39,
+      "phase_GMT": 111.6,
+      "phase_local": 329.0,
+      "speed": 28.512583,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 90.0,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.28,
+      "phase_GMT": 216.9,
+      "phase_local": 77.1,
+      "speed": 27.968208,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.19,
+      "phase_GMT": 133.9,
+      "phase_local": 354.4,
+      "speed": 27.895355,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.02,
+      "phase_GMT": 267.3,
+      "phase_local": 186.6,
+      "speed": 16.139101,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.17,
+      "phase_GMT": 143.1,
+      "phase_local": 355.8,
+      "speed": 29.455626,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 150.0,
+      "phase_local": 75.0,
+      "speed": 15.0,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 223.3,
+      "phase_local": 150.8,
+      "speed": 14.496694,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 262.5,
+      "phase_local": 184.6,
+      "speed": 15.5854435,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 0.5443747,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 127.6,
+      "phase_local": 127.2,
+      "speed": 0.0821373,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 0.0410686,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0158958,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0980331,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 154.8,
+      "phase_local": 87.4,
+      "speed": 13.471515,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 199.3,
+      "phase_local": 132.3,
+      "speed": 13.398661,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.11,
+      "phase_GMT": 162.0,
+      "phase_local": 12.2,
+      "speed": 29.958933,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 0.8,
+      "phase_local": 210.6,
+      "speed": 30.041067,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.02,
+      "phase_GMT": 204.4,
+      "phase_local": 140.1,
+      "speed": 12.854286,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.14,
+      "phase_GMT": 227.4,
+      "phase_local": 152.6,
+      "speed": 14.958931,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 65.9,
+      "phase_local": 270.8,
+      "speed": 31.015896,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 156.2,
+      "phase_local": 298.8,
+      "speed": 43.47616,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.86,
+      "phase_GMT": 160.5,
+      "phase_local": 12.9,
+      "speed": 29.528479,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 222.3,
+      "phase_local": 7.7,
+      "speed": 42.92714,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.32,
+      "phase_GMT": 185.4,
+      "phase_local": 35.0,
+      "speed": 30.082138,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.1,
+      "phase_GMT": 62.7,
+      "phase_local": 203.0,
+      "speed": 115.93642,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.12,
+      "phase_GMT": 232.0,
+      "phase_local": 297.1,
+      "speed": 58.984104,
+      "comments": "Average of 5 months (5-10/2010).  Ssa from 8410140 Eastport, ME"
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8410864/harcon.json"
+}

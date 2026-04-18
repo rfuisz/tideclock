@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 177.5,
+      "phase_local": 32.6,
+      "speed": 28.984104,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 178.9,
+      "phase_local": 28.9,
+      "speed": 30.0,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 199.7,
+      "phase_local": 57.5,
+      "speed": 28.43973,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.47,
+      "phase_GMT": 63.4,
+      "phase_local": 348.2,
+      "speed": 15.041069,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 77.0,
+      "phase_local": 147.2,
+      "speed": 57.96821,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.44,
+      "phase_GMT": 53.6,
+      "phase_local": 343.9,
+      "speed": 13.943035,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 304.0,
+      "phase_local": 229.2,
+      "speed": 86.95232,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.02,
+      "phase_GMT": 227.3,
+      "phase_local": 7.2,
+      "speed": 44.025173,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 60.0,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 60.4,
+      "phase_local": 133.3,
+      "speed": 57.423832,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 160.2,
+      "phase_local": 17.6,
+      "speed": 28.512583,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 90.0,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 286.8,
+      "phase_local": 147.0,
+      "speed": 27.968208,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 325.7,
+      "phase_local": 186.2,
+      "speed": 27.895355,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.04,
+      "phase_GMT": 41.0,
+      "phase_local": 320.3,
+      "speed": 16.139101,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 204.1,
+      "phase_local": 56.8,
+      "speed": 29.455626,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 238.0,
+      "phase_local": 163.0,
+      "speed": 15.0,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 142.7,
+      "phase_local": 70.2,
+      "speed": 14.496694,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 71.3,
+      "phase_local": 353.4,
+      "speed": 15.5854435,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 0.5443747,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.16,
+      "phase_GMT": 43.2,
+      "phase_local": 42.8,
+      "speed": 0.0821373,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.29,
+      "phase_GMT": 148.3,
+      "phase_local": 148.1,
+      "speed": 0.0410686,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0158958,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0980331,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 47.1,
+      "phase_local": 339.7,
+      "speed": 13.471515,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.08,
+      "phase_GMT": 35.1,
+      "phase_local": 328.1,
+      "speed": 13.398661,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 159.1,
+      "phase_local": 9.3,
+      "speed": 29.958933,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 184.4,
+      "phase_local": 34.2,
+      "speed": 30.041067,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.02,
+      "phase_GMT": 121.6,
+      "phase_local": 57.3,
+      "speed": 12.854286,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.13,
+      "phase_GMT": 71.3,
+      "phase_local": 356.5,
+      "speed": 14.958931,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 64.8,
+      "phase_local": 269.7,
+      "speed": 31.015896,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 60.3,
+      "phase_local": 202.9,
+      "speed": 43.47616,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 232.6,
+      "phase_local": 85.0,
+      "speed": 29.528479,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 202.3,
+      "phase_local": 347.7,
+      "speed": 42.92714,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 175.0,
+      "phase_local": 24.6,
+      "speed": 30.082138,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 115.93642,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 96.4,
+      "phase_local": 161.5,
+      "speed": 58.984104,
+      "comments": "194 day Least Squares Harmonic Analysis (2022 01 15-2022 06 27).  Sa and SSa from 8729840, other long period constituents are not used."
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8729717/harcon.json"
+}

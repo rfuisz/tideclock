@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 0.39,
+      "phase_GMT": 16.6,
+      "phase_local": 231.7,
+      "speed": 28.984104,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 32.5,
+      "phase_local": 242.5,
+      "speed": 30.0,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.09,
+      "phase_GMT": 358.9,
+      "phase_local": 216.7,
+      "speed": 28.43973,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.09,
+      "phase_GMT": 190.9,
+      "phase_local": 115.7,
+      "speed": 15.041069,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 346.3,
+      "phase_local": 56.5,
+      "speed": 57.96821,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 194.1,
+      "phase_local": 124.4,
+      "speed": 13.943035,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 209.5,
+      "phase_local": 134.7,
+      "speed": 86.95232,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 166.1,
+      "phase_local": 306.0,
+      "speed": 44.025173,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 60.0,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 327.9,
+      "phase_local": 40.8,
+      "speed": 57.423832,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 351.5,
+      "phase_local": 208.9,
+      "speed": 28.512583,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 90.0,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 27.4,
+      "phase_local": 247.5,
+      "speed": 27.968208,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 351.7,
+      "phase_local": 212.2,
+      "speed": 27.895355,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.0,
+      "phase_GMT": 175.0,
+      "phase_local": 94.3,
+      "speed": 16.139101,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 41.0,
+      "phase_local": 253.7,
+      "speed": 29.455626,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 248.9,
+      "phase_local": 173.9,
+      "speed": 15.0,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 210.3,
+      "phase_local": 137.8,
+      "speed": 14.496694,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 211.2,
+      "phase_local": 133.3,
+      "speed": 15.5854435,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 56.5,
+      "phase_local": 53.8,
+      "speed": 0.5443747,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.1,
+      "phase_GMT": 56.9,
+      "phase_local": 56.5,
+      "speed": 0.0821373,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.24,
+      "phase_GMT": 154.6,
+      "phase_local": 154.4,
+      "speed": 0.0410686,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0158958,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0980331,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 218.4,
+      "phase_local": 151.1,
+      "speed": 13.471515,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 219.8,
+      "phase_local": 152.9,
+      "speed": 13.398661,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 14.4,
+      "phase_local": 224.6,
+      "speed": 29.958933,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 238.2,
+      "phase_local": 88.0,
+      "speed": 30.041067,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.0,
+      "phase_GMT": 336.9,
+      "phase_local": 272.6,
+      "speed": 12.854286,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 218.6,
+      "phase_local": 143.8,
+      "speed": 14.958931,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 332.2,
+      "phase_local": 177.2,
+      "speed": 31.015896,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 356.3,
+      "phase_local": 138.9,
+      "speed": 43.47616,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 34.2,
+      "phase_local": 246.6,
+      "speed": 29.528479,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 185.5,
+      "phase_local": 330.9,
+      "speed": 42.92714,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 23.4,
+      "phase_local": 233.0,
+      "speed": 30.082138,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 194.2,
+      "phase_local": 334.5,
+      "speed": 115.93642,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 28.2,
+      "phase_local": 93.3,
+      "speed": 58.984104,
+      "comments": "Vector Averaged from 5 years (2012-2016).  MM from average of 20 1-year analyses.  Sa and SSa from 20 year analysis."
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8652587/harcon.json"
+}

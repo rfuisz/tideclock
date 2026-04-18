@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 1.73,
+      "phase_GMT": 145.6,
+      "phase_local": 273.7,
+      "speed": 28.984104,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.68,
+      "phase_GMT": 140.8,
+      "phase_local": 260.8,
+      "speed": 30.0,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.41,
+      "phase_GMT": 124.0,
+      "phase_local": 256.5,
+      "speed": 28.43973,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 1.14,
+      "phase_GMT": 207.7,
+      "phase_local": 87.4,
+      "speed": 15.041069,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 57.96821,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.73,
+      "phase_GMT": 192.4,
+      "phase_local": 80.9,
+      "speed": 13.943035,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 86.95232,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 44.025173,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 60.0,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 57.423832,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.08,
+      "phase_GMT": 131.0,
+      "phase_local": 262.9,
+      "speed": 28.512583,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 90.0,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 88.7,
+      "phase_local": 225.0,
+      "speed": 27.968208,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 96.7,
+      "phase_local": 233.5,
+      "speed": 27.895355,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.04,
+      "phase_GMT": 238.1,
+      "phase_local": 109.0,
+      "speed": 16.139101,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 143.3,
+      "phase_local": 267.7,
+      "speed": 29.455626,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 329.4,
+      "phase_local": 209.4,
+      "speed": 15.0,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 220.1,
+      "phase_local": 104.1,
+      "speed": 14.496694,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 220.0,
+      "phase_local": 95.3,
+      "speed": 15.5854435,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 0.5443747,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 282.0,
+      "phase_local": 281.3,
+      "speed": 0.0821373,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.19,
+      "phase_GMT": 181.6,
+      "phase_local": 181.3,
+      "speed": 0.0410686,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0158958,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 135.8,
+      "phase_local": 127.0,
+      "speed": 1.0980331,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 185.8,
+      "phase_local": 78.0,
+      "speed": 13.471515,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.13,
+      "phase_GMT": 184.0,
+      "phase_local": 76.8,
+      "speed": 13.398661,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 129.0,
+      "phase_local": 249.3,
+      "speed": 29.958933,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 140.7,
+      "phase_local": 260.4,
+      "speed": 30.041067,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.02,
+      "phase_GMT": 177.1,
+      "phase_local": 74.3,
+      "speed": 12.854286,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.36,
+      "phase_GMT": 204.1,
+      "phase_local": 84.4,
+      "speed": 14.958931,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 31.015896,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 352.8,
+      "phase_local": 5.0,
+      "speed": 43.47616,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 167.2,
+      "phase_local": 291.0,
+      "speed": 29.528479,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 42.92714,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.2,
+      "phase_GMT": 134.7,
+      "phase_local": 254.0,
+      "speed": 30.082138,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 115.93642,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 58.984104,
+      "comments": "Mean of 7 NOS one year analyses (1983-1989).  Sa and Ssa from analysis of 20 years monthly MSL (1970-1989)."
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/9410680/harcon.json"
+}

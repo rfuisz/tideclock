@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 1.31,
+      "phase_GMT": 318.1,
+      "phase_local": 86.2,
+      "speed": 28.984104,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.22,
+      "phase_GMT": 325.1,
+      "phase_local": 85.1,
+      "speed": 30.0,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.24,
+      "phase_GMT": 293.6,
+      "phase_local": 66.1,
+      "speed": 28.43973,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.76,
+      "phase_GMT": 298.1,
+      "phase_local": 177.8,
+      "speed": 15.041069,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 166.3,
+      "phase_local": 62.6,
+      "speed": 57.96821,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.42,
+      "phase_GMT": 278.5,
+      "phase_local": 167.0,
+      "speed": 13.943035,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 328.0,
+      "phase_local": 352.4,
+      "speed": 86.95232,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.1,
+      "phase_GMT": 170.0,
+      "phase_local": 177.8,
+      "speed": 44.025173,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 60.0,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 143.3,
+      "phase_local": 43.9,
+      "speed": 57.423832,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 297.3,
+      "phase_local": 69.2,
+      "speed": 28.512583,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 90.0,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 129.8,
+      "phase_local": 266.1,
+      "speed": 27.968208,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 246.4,
+      "phase_local": 23.2,
+      "speed": 27.895355,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.02,
+      "phase_GMT": 342.8,
+      "phase_local": 213.7,
+      "speed": 16.139101,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 300.5,
+      "phase_local": 64.9,
+      "speed": 29.455626,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 118.2,
+      "phase_local": 358.2,
+      "speed": 15.0,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 14.496694,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 37.3,
+      "phase_local": 272.6,
+      "speed": 15.5854435,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 0.5443747,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.2,
+      "phase_GMT": 285.0,
+      "phase_local": 284.3,
+      "speed": 0.0821373,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 0.0410686,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0158958,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0980331,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 280.5,
+      "phase_local": 172.7,
+      "speed": 13.471515,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 290.3,
+      "phase_local": 183.1,
+      "speed": 13.398661,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 29.958933,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 30.041067,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 316.4,
+      "phase_local": 213.6,
+      "speed": 12.854286,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.22,
+      "phase_GMT": 283.8,
+      "phase_local": 164.1,
+      "speed": 14.958931,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 154.0,
+      "phase_local": 265.9,
+      "speed": 31.015896,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 258.8,
+      "phase_local": 271.0,
+      "speed": 43.47616,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.1,
+      "phase_GMT": 350.5,
+      "phase_local": 114.3,
+      "speed": 29.528479,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.11,
+      "phase_GMT": 159.2,
+      "phase_local": 175.8,
+      "speed": 42.92714,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.1,
+      "phase_GMT": 311.0,
+      "phase_local": 70.3,
+      "speed": 30.082138,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 115.93642,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 193.0,
+      "phase_local": 81.1,
+      "speed": 58.984104,
+      "comments": "Used 6-month LSQHA, excluding use of 1997 data which had strong river flow masking tides; deleted Mf, Msf, MM constituents; and substituted Ssa from NWLON at Port Chicago which has similar seasonal river response (Sa is unstable from year to year)."
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/9415064/harcon.json"
+}

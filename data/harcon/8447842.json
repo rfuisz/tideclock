@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 1.65,
+      "phase_GMT": 7.9,
+      "phase_local": 223.0,
+      "speed": 28.984104,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.58,
+      "phase_GMT": 359.9,
+      "phase_local": 209.9,
+      "speed": 30.0,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.43,
+      "phase_GMT": 353.7,
+      "phase_local": 211.5,
+      "speed": 28.43973,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.17,
+      "phase_GMT": 163.3,
+      "phase_local": 88.1,
+      "speed": 15.041069,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.21,
+      "phase_GMT": 41.4,
+      "phase_local": 111.6,
+      "speed": 57.96821,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.19,
+      "phase_GMT": 208.9,
+      "phase_local": 139.2,
+      "speed": 13.943035,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 101.8,
+      "phase_local": 27.0,
+      "speed": 86.95232,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.05,
+      "phase_GMT": 23.2,
+      "phase_local": 163.1,
+      "speed": 44.025173,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 3.8,
+      "phase_local": 63.8,
+      "speed": 60.0,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.09,
+      "phase_GMT": 350.4,
+      "phase_local": 63.3,
+      "speed": 57.423832,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.1,
+      "phase_GMT": 355.4,
+      "phase_local": 212.8,
+      "speed": 28.512583,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 357.3,
+      "phase_local": 267.3,
+      "speed": 90.0,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.08,
+      "phase_GMT": 350.8,
+      "phase_local": 211.0,
+      "speed": 27.968208,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 338.4,
+      "phase_local": 198.9,
+      "speed": 27.895355,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 154.5,
+      "phase_local": 73.8,
+      "speed": 16.139101,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 4.3,
+      "phase_local": 217.0,
+      "speed": 29.455626,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 191.1,
+      "phase_local": 116.1,
+      "speed": 15.0,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 190.4,
+      "phase_local": 117.9,
+      "speed": 14.496694,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 160.2,
+      "phase_local": 82.3,
+      "speed": 15.5854435,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 0.5443747,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 61.8,
+      "phase_local": 61.4,
+      "speed": 0.0821373,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.2,
+      "phase_GMT": 140.5,
+      "phase_local": 140.3,
+      "speed": 0.0410686,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0158958,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0980331,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 100.6,
+      "phase_local": 33.2,
+      "speed": 13.471515,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.08,
+      "phase_GMT": 152.4,
+      "phase_local": 85.4,
+      "speed": 13.398661,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.16,
+      "phase_GMT": 332.7,
+      "phase_local": 182.9,
+      "speed": 29.958933,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.32,
+      "phase_GMT": 146.9,
+      "phase_local": 356.7,
+      "speed": 30.041067,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 64.4,
+      "phase_local": 0.1,
+      "speed": 12.854286,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 156.0,
+      "phase_local": 81.2,
+      "speed": 14.958931,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 105.4,
+      "phase_local": 310.3,
+      "speed": 31.015896,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 44.7,
+      "phase_local": 187.3,
+      "speed": 43.47616,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 328.0,
+      "phase_local": 180.4,
+      "speed": 29.528479,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 339.5,
+      "phase_local": 124.9,
+      "speed": 42.92714,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.1,
+      "phase_GMT": 164.3,
+      "phase_local": 13.9,
+      "speed": 30.082138,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 115.93642,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 117.6,
+      "phase_local": 182.7,
+      "speed": 58.984104,
+      "comments": "129 Day LSQHA (24 Apr. - 31 Aug. 1976).  Sa and Ssa from 8452660 Newport, RI."
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8447842/harcon.json"
+}

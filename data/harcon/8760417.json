@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 121.1,
+      "phase_local": 307.2,
+      "speed": 28.984104,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 116.4,
+      "phase_local": 296.4,
+      "speed": 30.0,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 141.4,
+      "phase_local": 330.8,
+      "speed": 28.43973,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.43,
+      "phase_GMT": 22.0,
+      "phase_local": 291.8,
+      "speed": 15.041069,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 337.1,
+      "phase_local": 349.3,
+      "speed": 57.96821,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.41,
+      "phase_GMT": 13.6,
+      "phase_local": 289.9,
+      "speed": 13.943035,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 9.1,
+      "phase_local": 207.4,
+      "speed": 86.95232,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 44.025173,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 104.1,
+      "phase_local": 104.1,
+      "speed": 60.0,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 308.7,
+      "phase_local": 324.2,
+      "speed": 57.423832,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 214.7,
+      "phase_local": 43.6,
+      "speed": 28.512583,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 90.0,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 124.0,
+      "phase_local": 316.2,
+      "speed": 27.968208,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 124.1,
+      "phase_local": 316.7,
+      "speed": 27.895355,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 34.6,
+      "phase_local": 297.8,
+      "speed": 16.139101,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 358.8,
+      "phase_local": 182.1,
+      "speed": 29.455626,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 347.6,
+      "phase_local": 257.6,
+      "speed": 15.0,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 355.3,
+      "phase_local": 268.3,
+      "speed": 14.496694,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 40.0,
+      "phase_local": 306.5,
+      "speed": 15.5854435,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.05,
+      "phase_GMT": 245.8,
+      "phase_local": 242.5,
+      "speed": 0.5443747,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.31,
+      "phase_GMT": 32.4,
+      "phase_local": 31.9,
+      "speed": 0.0821373,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.39,
+      "phase_GMT": 163.9,
+      "phase_local": 163.7,
+      "speed": 0.0410686,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.08,
+      "phase_GMT": 340.1,
+      "phase_local": 334.0,
+      "speed": 1.0158958,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 354.8,
+      "phase_local": 348.2,
+      "speed": 1.0980331,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.02,
+      "phase_GMT": 351.9,
+      "phase_local": 271.1,
+      "speed": 13.471515,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.09,
+      "phase_GMT": 9.5,
+      "phase_local": 289.1,
+      "speed": 13.398661,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 82.6,
+      "phase_local": 262.8,
+      "speed": 29.958933,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 276.9,
+      "phase_local": 96.7,
+      "speed": 30.041067,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.02,
+      "phase_GMT": 354.3,
+      "phase_local": 277.2,
+      "speed": 12.854286,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.13,
+      "phase_GMT": 16.3,
+      "phase_local": 286.5,
+      "speed": 14.958931,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 329.9,
+      "phase_local": 143.8,
+      "speed": 31.015896,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 43.47616,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 29.528479,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 42.92714,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 91.8,
+      "phase_local": 271.3,
+      "speed": 30.082138,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 115.93642,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 342.4,
+      "phase_local": 348.5,
+      "speed": 58.984104,
+      "comments": "10 month LSQHA (4/4/08 - 2/10/09) contractor Hydro data."
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8760417/harcon.json"
+}

@@ -1,0 +1,376 @@
+{
+  "units": "feet",
+  "HarmonicConstituents": [
+    {
+      "number": 1,
+      "name": "M2",
+      "description": "Principal lunar semidiurnal constituent",
+      "amplitude": 4.24,
+      "phase_GMT": 108.4,
+      "phase_local": 323.5,
+      "speed": 28.984104,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 2,
+      "name": "S2",
+      "description": "Principal solar semidiurnal constituent",
+      "amplitude": 0.63,
+      "phase_GMT": 147.0,
+      "phase_local": 357.0,
+      "speed": 30.0,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 3,
+      "name": "N2",
+      "description": "Larger lunar elliptic semidiurnal constituent",
+      "amplitude": 0.99,
+      "phase_GMT": 75.4,
+      "phase_local": 293.2,
+      "speed": 28.43973,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 4,
+      "name": "K1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.47,
+      "phase_GMT": 205.8,
+      "phase_local": 130.6,
+      "speed": 15.041069,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 5,
+      "name": "M4",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.06,
+      "phase_GMT": 1.8,
+      "phase_local": 72.0,
+      "speed": 57.96821,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 6,
+      "name": "O1",
+      "description": "Lunar diurnal constituent",
+      "amplitude": 0.39,
+      "phase_GMT": 186.5,
+      "phase_local": 116.8,
+      "speed": 13.943035,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 7,
+      "name": "M6",
+      "description": "Shallow water overtides of principal lunar constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 277.2,
+      "phase_local": 202.4,
+      "speed": 86.95232,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 8,
+      "name": "MK3",
+      "description": "Shallow water terdiurnal",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 44.025173,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 9,
+      "name": "S4",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 282.6,
+      "phase_local": 342.6,
+      "speed": 60.0,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 10,
+      "name": "MN4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 57.423832,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 11,
+      "name": "NU2",
+      "description": "Larger lunar evectional constituent",
+      "amplitude": 0.19,
+      "phase_GMT": 79.8,
+      "phase_local": 297.3,
+      "speed": 28.512583,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 12,
+      "name": "S6",
+      "description": "Shallow water overtides of principal solar constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 90.0,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 13,
+      "name": "MU2",
+      "description": "Variational constituent",
+      "amplitude": 0.1,
+      "phase_GMT": 288.5,
+      "phase_local": 148.7,
+      "speed": 27.968208,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 14,
+      "name": "2N2",
+      "description": "Lunar elliptical semidiurnal second-order constituent",
+      "amplitude": 0.13,
+      "phase_GMT": 42.4,
+      "phase_local": 262.9,
+      "speed": 27.895355,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 15,
+      "name": "OO1",
+      "description": "Lunar diurnal",
+      "amplitude": 0.02,
+      "phase_GMT": 224.9,
+      "phase_local": 144.2,
+      "speed": 16.139101,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 16,
+      "name": "LAM2",
+      "description": "Smaller lunar evectional constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 126.3,
+      "phase_local": 339.0,
+      "speed": 29.455626,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 17,
+      "name": "S1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 15.0,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 18,
+      "name": "M1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 196.2,
+      "phase_local": 123.7,
+      "speed": 14.496694,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 19,
+      "name": "J1",
+      "description": "Smaller lunar elliptic diurnal constituent",
+      "amplitude": 0.03,
+      "phase_GMT": 215.2,
+      "phase_local": 137.3,
+      "speed": 15.5854435,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 20,
+      "name": "MM",
+      "description": "Lunar monthly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 0.5443747,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 21,
+      "name": "SSA",
+      "description": "Solar semiannual constituent",
+      "amplitude": 0.07,
+      "phase_GMT": 97.5,
+      "phase_local": 97.1,
+      "speed": 0.0821373,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 22,
+      "name": "SA",
+      "description": "Solar annual constituent",
+      "amplitude": 0.16,
+      "phase_GMT": 136.3,
+      "phase_local": 136.1,
+      "speed": 0.0410686,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 23,
+      "name": "MSF",
+      "description": "Lunisolar synodic fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0158958,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 24,
+      "name": "MF",
+      "description": "Lunisolar fortnightly constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 1.0980331,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 25,
+      "name": "RHO",
+      "description": "Larger lunar evectional diurnal constituent",
+      "amplitude": 0.01,
+      "phase_GMT": 178.3,
+      "phase_local": 110.9,
+      "speed": 13.471515,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 26,
+      "name": "Q1",
+      "description": "Larger lunar elliptic diurnal constituent",
+      "amplitude": 0.08,
+      "phase_GMT": 177.0,
+      "phase_local": 110.0,
+      "speed": 13.398661,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 27,
+      "name": "T2",
+      "description": "Larger solar elliptic constituent",
+      "amplitude": 0.04,
+      "phase_GMT": 145.4,
+      "phase_local": 355.6,
+      "speed": 29.958933,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 28,
+      "name": "R2",
+      "description": "Smaller solar elliptic constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 148.5,
+      "phase_local": 358.3,
+      "speed": 30.041067,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 29,
+      "name": "2Q1",
+      "description": "Larger elliptic diurnal",
+      "amplitude": 0.01,
+      "phase_GMT": 167.5,
+      "phase_local": 103.2,
+      "speed": 12.854286,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 30,
+      "name": "P1",
+      "description": "Solar diurnal constituent",
+      "amplitude": 0.15,
+      "phase_GMT": 204.4,
+      "phase_local": 129.6,
+      "speed": 14.958931,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 31,
+      "name": "2SM2",
+      "description": "Shallow water semidiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 31.015896,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 32,
+      "name": "M3",
+      "description": "Lunar terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 43.47616,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 33,
+      "name": "L2",
+      "description": "Smaller lunar elliptic semidiurnal constituent",
+      "amplitude": 0.12,
+      "phase_GMT": 141.3,
+      "phase_local": 353.7,
+      "speed": 29.528479,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 34,
+      "name": "2MK3",
+      "description": "Shallow water terdiurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 42.92714,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 35,
+      "name": "K2",
+      "description": "Lunisolar semidiurnal constituent",
+      "amplitude": 0.17,
+      "phase_GMT": 150.1,
+      "phase_local": 359.7,
+      "speed": 30.082138,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 36,
+      "name": "M8",
+      "description": "Shallow water eighth diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 216.1,
+      "phase_local": 356.4,
+      "speed": 115.93642,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    },
+    {
+      "number": 37,
+      "name": "MS4",
+      "description": "Shallow water quarter diurnal constituent",
+      "amplitude": 0.0,
+      "phase_GMT": 0.0,
+      "phase_local": 0.0,
+      "speed": 58.984104,
+      "comments": "Vector Average of 3 months (7-9/2992). Sa and SSa from 8443970 Boston"
+    }
+  ],
+  "self": "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8441841/harcon.json"
+}
