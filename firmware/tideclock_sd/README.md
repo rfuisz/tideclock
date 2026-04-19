@@ -51,15 +51,19 @@ the binary search doesn't crash.
 
 ## Selecting the station
 
-For now the station ID is hard-coded at the top of the sketch:
+Create `/tide/config.txt` on the SD card with one line containing the
+NOAA station ID:
 
-```c
-static const char DEFAULT_STATION_ID[] = "9414290";  // San Francisco
+```
+9447130
 ```
 
-Future work: read a config line from `/tide/config.txt` on SD, or expose
-a small serial menu, or use GPS + `stations.bin` to pick the nearest
-station automatically.
+The sketch reads this at boot. If the file is missing it falls back to
+`DEFAULT_STATION_ID` at the top of the .ino (currently San Francisco
+9414290). Find station IDs by browsing `data/stations.json` or
+NOAA's map: https://tidesandcurrents.noaa.gov/.
+
+Future work: GPS auto-select using the SIM7670 GNSS + `stations.bin`.
 
 ## Output (demo mode)
 

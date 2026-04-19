@@ -40,9 +40,11 @@ static const int SD_MOSI  = 11;
 
 static const int NEOPIXEL_PIN = 38;
 
-// Hardcoded station for now -- replace with a preferences/config read once
-// the UI is wired up. "9414290" = San Francisco.
+// Default station if /tide/config.txt is absent. "9414290" = San Francisco.
+// config.txt format: one line containing just the NOAA station ID, e.g.
+//   9447130
 static const char DEFAULT_STATION_ID[] = "9414290";
+static char activeStationId[11] = "";
 
 // --- Binary record structs (must match export_binary.py) ---------------
 #pragma pack(push, 1)
@@ -200,16 +202,35 @@ void setup() {
     Serial.println("FATAL: /tide/hilo not found on SD");
     while (1) delay(1000);
   }
-  Serial.println("SD contents look ok.");
+
+  // Resolve active station: config.txt overrides the default.
+  strncpy(activeStationId, DEFAULT_STATION_ID, sizeof(activeStationId) - 1);
+  if (SD.exists("/tide/config.txt")) {
+    File cfg = SD.open("/tide/config.txt", FILE_READ);
+    if (cfg) {
+      size_t n = cfg.readBytesUntil('\n', activeStationId,
+                                    sizeof(activeStationId) - 1);
+      activeStationId[n] = '\0';
+      // Trim whitespace
+      for (int i = n - 1; i >= 0; i--) {
+        if (activeStationId[i] == ' ' || activeStationId[i] == '\r' ||
+            activeStationId[i] == '\t') activeStationId[i] = '\0';
+        else break;
+      }
+      cfg.close();
+    }
+  }
+  Serial.printf("Active station: %s\n", activeStationId);
 }
 
 void loop() {
   char path[64];
-  snprintf(path, sizeof(path), "/tide/hilo/%s.dat", DEFAULT_STATION_ID);
+  snprintf(path, sizeof(path), "/tide/hilo/%s.dat", activeStationId);
 
   File f = SD.open(path, FILE_READ);
   if (!f) {
-    Serial.printf("cannot open %s\n", path);
+    Serial.printf("cannot open %s (station id '%s' unknown?)\n",
+                  path, activeStationId);
     pixel.setPixelColor(0, pixel.Color(255, 0, 0));
     pixel.show();
     delay(2000);
