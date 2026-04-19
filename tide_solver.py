@@ -97,18 +97,18 @@ class Station:
 
     def hilo(self, t_start: datetime, t_end: datetime,
              step_seconds: int = 60) -> list[dict]:
-        series = self.height_series(t_start, t_end, step_seconds)
+        """Find high/low events in [t_start, t_end]. Uses pytides2's
+        scipy-based root finder; step_seconds is unused (kept for API
+        compatibility with the legacy sampling implementation).
+        """
+        del step_seconds
+        if t_start.tzinfo is not None:
+            t_start = t_start.astimezone(timezone.utc).replace(tzinfo=None)
+        if t_end.tzinfo is not None:
+            t_end = t_end.astimezone(timezone.utc).replace(tzinfo=None)
         events = []
-        for i in range(1, len(series) - 1):
-            t0, h0 = series[i - 1]
-            t1, h1 = series[i]
-            t2, h2 = series[i + 1]
-            if h1 > h0 and h1 > h2:
-                tp, hp = _parabolic_peak(t0, h0, t1, h1, t2, h2)
-                events.append({"t": _utc(tp), "v": hp, "type": "H"})
-            elif h1 < h0 and h1 < h2:
-                tp, hp = _parabolic_peak(t0, h0, t1, h1, t2, h2)
-                events.append({"t": _utc(tp), "v": hp, "type": "L"})
+        for t, h, typ in self._tide.extrema(t_start, t_end):
+            events.append({"t": _utc(t), "v": float(h), "type": typ})
         return events
 
 
